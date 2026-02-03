@@ -1,0 +1,57 @@
+Math Epi / Complex Systems
+
+Law of Systemic Collapse → name of the paper? 
+
+It is universal for any system with finite capacity and a crowding element. 
+
+​​Canada is warming at over twice the global rate, the frequency and intensity of extreme heat events are increasing, summer is hotter, fires are bigger. Climate change is pushing systems to closer phase transition points.  Right now, we measure the danger by counting bodies after they drop, which is regression. We look at the past, draw a line, assume the future behaves the same. Healthcare system is not made out of rubber, just keeps stretching with more heat (linearily). It implies we can handle infinite heat if we just add more bets. I prove the real system is made of glass. I modelled friction.
+
+We propose a method to find that cliff.  I used math (differential equations) that nobody uses in heat health, we build a simulation of a city, and introduced a new law called systemic friction. Basically, one person gets sick = they block the door, not just occupy a bed, sort of like traffic, they slow down ambulances, they occupy the nurses. I fed this model the data from the 2021 BC heat dome to see if we could break it. We turned up the heat in the model. At exactly 48.9, math exploded, line went vertical, and the cost to save one person became infinite. During the BC heat dome, Lytton hit 49.6. The town functionally disappeared/burned down. Our math predicted the thermal limit where the infrastructure snaps, the exact cliff edge before we walked off it. 
+
+Why does it matter
+Canada builds hospitals like we build houses, hoping they stay up. Engineers build bridges with a load limit (how many tons break the bridge). Public health has no load limit, giving public health a specific number, where at this number, your ambulance stop running. Build a buffer or prepare for the crash and know exactly when to evacuate before the temperature hits. The T crit represents a safety limit. 
+
+The Law of systemic friction? 
+
+Rate of decay is proportional to stress times (1+congestion x load). Or, simply, collapse occurs when the interaction penalty exceeds the recovery rate. This is (1+psiA). This is maximum capacity. A tool. Don’t tell me how many will die (I don’t care), tell me the temperature where the ER stops working, so we can tell people to evacuate. How can this generalize? The limit is universal 
+
+Implications → this is universal, and here’s an example: Two examples of catastrophic events and how our model predicts not only the deaths, but also the critical limit. We accidentally predicted mortality, but I don;’t care, I want the limit. THE END OF THE LOCAL WORLD!!
+
+Keywords needed: 
+
+Saturation, ODE, mechanism, Crowding, Friction, Psi, Bifurcation / Phase transition, Discotninuity, Non-linear dynamics, asymptote, critical value, mechanistic modelling, stability analysis, equilibrium, T crit, regression assumes elastic, reality is fragile, DLNM, heat-health systems. Newtonian Physics? This is Law? Dv/dt = -betaV (1+psiA) 
+
+Other Stuffs:
+In a standard SIR model, the floor is flat. Linear. 
+
+Vulnerable = capacity/stock. Potential energy waiting to be burned. “Stuff”
+Affected = fire. Consumes fuel, generates heat. This is system load.
+Hospitalized = ash. Byproduct. Damping (physics), or just a place the system dumps the entropy, like a sink.
+
+The law is as follows
+
+Flow = betaV (1+psiA), or collapse rate = pressure times capacity times (1+interference x load). 
+
+Pressure is just heat
+Psi = congestion or crowding (can be like fragility factor). 
+
+A good analogy is a table cloth. If you put a bowling ball on the table, the cloth dips a little bit. Put two balls, it dips twice as much, keeps stretching just like a rubber. This is the linear world
+
+In this world, it is like putting a bowling ball on the table, yes, but it is sort of like fabric. Ball gets heavier (temperature rises), fabric starts to tear the fibers (psi). More weight you add, the weaker the fabric. At exactly 48.9 pounds, the fabric rips, the ball RIPS through the table. Deaths had to fall on my line. They had no choice. 
+
+I think I will change all the names of the variables and stuffs. 
+
+The 2016 wildfire at fort mcmurray, and capacity. 
+
+Do we look for mortality? 
+
+Use “I wondered if it applied to traffic.. So I plugged in the Fort McMurray evacuation data.”. 
+
+https://www.ontariohealth.ca/system/reporting/wait-times → ontario health wait times. 
+
+V = number of beds (or nurses)
+A = Daily admissions
+Psi = Hallway medicine
+Asymptote: diversion
+
+The Prediction: The ER Waiting Room Collapse. A next COVID or flu season. Hospitals track ED wait times (cities use dashboards). If i get historical data for your local hospital, calculate your psi based on last year’s crash, I can make a bet at exactly which X patients the hospital makes a code orange (diversion)

@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Phase Calc</title>
+    <style>
+        body {
+            font-family: 'Courier New', Courier, monospace;
+            background-color: #ffffff;
+            color: #000000;
+            margin: 0;
+            padding: 40px;
+            display: flex;
+            height: 100vh;
+            box-sizing: border-box;
+            overflow: hidden;
+        }
+
+        .container {
+            display: flex;
+            width: 100%;
+            height: 100%;
+            gap: 40px;
+        }
+
+        /* LEFT: CONTROLS */
+        .controls {
+            width: 300px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            gap: 40px;
+            border-right: 1px solid #ccc;
+            padding-right: 40px;
+        }
+
+        .var-group {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .var-label {
+            font-size: 1.2rem;
+            display: flex;
+            justify-content: space-between;
+        }
+
+        input[type="number"] {
+            font-family: 'Courier New', monospace;
+            border: none;
+            border-bottom: 1px solid #000;
+            width: 80px;
+            font-size: 1.2rem;
+            outline: none;
+            background: transparent;
+        }
+
+        input[type="range"] {
+            width: 100%;
+            accent-color: #000;
+            cursor: pointer;
+        }
+
+        /* RIGHT: VISUALIZATION */
+        .display {
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            position: relative;
+        }
+
+        canvas {
+            width: 100%;
+            height: 400px;
+            border-bottom: 1px solid #000;
+            border-left: 1px solid #000;
+        }
+
+        .readout {
+            margin-top: 20px;
+            font-size: 1rem;
+            display: flex;
+            gap: 30px;
+        }
+
+        .math-display {
+            position: absolute;
+            top: 0;
+            right: 0;
+            font-size: 1rem;
+            opacity: 0.5;
+        }
+
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        
+        <!-- INPUTS -->
+        <div class="controls">
+            
+            <!-- CAPACITY -->
+            <div class="var-group">
+                <div class="var-label">
+                    <span>&Phi;</span>
+                    <input type="number" id="num-phi" value="50">
+                </div>
+                <input type="range" id="rng-phi" min="10" max="100" step="1" value="50">
+            </div>
+
+            <!-- FRICTION -->
+            <div class="var-group">
+                <div class="var-label">
+                    <span>&alpha;</span>
+                    <input type="number" id="num-alpha" value="0.5" step="0.01">
+                </div>
+                <input type="range" id="rng-alpha" min="0.1" max="2.0" step="0.01" value="0.5">
+            </div>
+
+            <!-- TEMPERATURE -->
+            <div class="var-group" style="margin-top: 40px;">
+                <div class="var-label">
+                    <span>T</span>
+                    <input type="number" id="num-t" value="35" step="0.1">
+                </div>
+                <input type="range" id="rng-t" min="20" max="60" step="0.1" value="35">
+            </div>
+
+        </div>
+
+        <!-- GRAPH -->
+        <div class="display">
+            
+            <!-- Static Formula Display -->
+            <div class="math-display">
+                T<sub>crit</sub> = &Phi; / (N &middot; &alpha;) + 30
+            </div>
+
+            <canvas id="phaseCanvas"></canvas>
+
+            <div class="readout">
+                <div>T<sub>crit</sub>: <span id="out-tcrit">--</span></div>
+                <div>&Delta;: <span id="out-delta">--</span></div>
+            </div>
+        </div>
+
+    </div>
+
+    <script>
+        // --- CONSTANTS ---
+        const N_SCALE = 20; 
+        const BASE_OFFSET = 30;
+
+        // --- DOM ELEMENTS ---
+        const canvas = document.getElementById('phaseCanvas');
+        const ctx = canvas.getContext('2d');
+        
+        const inputs = {
+            phi: { num: document.getElementById('num-phi'), rng: document.getElementById('rng-phi') },
+            alpha: { num: document.getElementById('num-alpha'), rng: document.getElementById('rng-alpha') },
+            t: { num: document.getElementById('num-t'), rng: document.getElementById('rng-t') }
+        };
+
+        const outputs = {
+            tcrit: document.getElementById('out-tcrit'),
+            delta: document.getElementById('out-delta')
+        };
+
+        // --- RESIZE CANVAS ---
+        // Keeps the canvas crisp on high DPI displays
+        function resizeCanvas() {
+            const rect = canvas.getBoundingClientRect();
+            canvas.width = rect.width * 2;
+            canvas.height = rect.height * 2;
+            ctx.scale(2, 2);
+            draw();
+        }
+        window.addEventListener('resize', resizeCanvas);
+
+        // --- SYNC INPUTS ---
+        function bindInput(group) {
+            group.num.addEventListener('input', () => { group.rng.value = group.num.value; draw(); });
+            group.rng.addEventListener('input', () => { group.num.value = group.rng.value; draw(); });
+        }
+        Object.values(inputs).forEach(bindInput);
+
+        // --- PHYSICS & DRAW ENGINE ---
+        function draw() {
+            // 1. Get Values
+            const phi = parseFloat(inputs.phi.num.value);
+            const alpha = parseFloat(inputs.alpha.num.value);
+            const T = parseFloat(inputs.t.num.value);
+
+            // 2. Compute Physics
+            // The Wall position
+            const T_crit = (phi / (alpha * N_SCALE)) + BASE_OFFSET;
+            // The Non-Linear onset
+            const T_warn = T_crit - 1.5;
+            
+            const delta = T_crit - T;
+
+            // 3. Update Text
+            outputs.tcrit.innerText = T_crit.toFixed(2);
+            outputs.delta.innerText = delta.toFixed(2);
+            
+            // Color Logic
+            const isCrit = T >= T_crit;
+            const isWarn = T >= T_warn;
+            const activeColor = isCrit ? '#ff0000' : (isWarn ? '#ff0000' : '#000000'); // Red if warning or crit
+            
+            outputs.delta.style.color = activeColor;
+
+
+            // 4. DRAW GRAPH
+            const width = canvas.width / 2;
+            const height = canvas.height / 2;
+            
+            // Clear
+            ctx.clearRect(0, 0, width, height);
+
+            // Define Scale (X Axis Range: 20 to 80)
+            const minX = 20;
+            const maxX = 80;
+            const range = maxX - minX;
+            
+            const mapX = (val) => ((val - minX) / range) * width;
+
+            // -- DRAW ZONES --
+            
+            // Position of The Wall
+            const xWall = mapX(T_crit);
+            const xWarn = mapX(T_warn);
+            const xCurrent = mapX(T);
+
+            // 1. The Critical Line (T_crit)
+            ctx.beginPath();
+            ctx.moveTo(xWall, 0);
+            ctx.lineTo(xWall, height);
+            ctx.strokeStyle = "#000";
+            ctx.lineWidth = 2;
+            ctx.stroke();
+
+            // 2. The Warning Line (Dashed)
+            if (xWarn > 0) {
+                ctx.beginPath();
+                ctx.setLineDash([5, 5]);
+                ctx.moveTo(xWarn, 0);
+                ctx.lineTo(xWarn, height);
+                ctx.strokeStyle = "#ff0000"; // Red dashed
+                ctx.lineWidth = 1;
+                ctx.stroke();
+                ctx.setLineDash([]); // Reset
+            }
+
+            // 3. Current Temperature (Bar)
+            ctx.fillStyle = activeColor;
+            // Draw a rectangle from 0 to Current T
+            // Note: We clamp it visually so it doesn't fly off screen
+            const drawT = Math.max(0, Math.min(xCurrent, width));
+            
+            // Draw a solid bar
+            ctx.globalAlpha = 0.2; // light opacity fill
+            ctx.fillRect(0, 0, drawT, height);
+            
+            // Draw the leading edge solid
+            ctx.globalAlpha = 1.0;
+            ctx.beginPath();
+            ctx.moveTo(drawT, 0);
+            ctx.lineTo(drawT, height);
+            ctx.strokeStyle = activeColor;
+            ctx.lineWidth = 4;
+            ctx.stroke();
+
+            // 4. Mathematical "Singularity" Curve (Cosmetic Visualization of load)
+            // Just to show the exponential nature visually
+            ctx.beginPath();
+            ctx.strokeStyle = "#999";
+            ctx.lineWidth = 1;
+            
+            for (let i = 0; i < width; i+=2) {
+                // simple 1/x curve approaching xWall
+                // normalized x (0 to 1) relative to wall
+                let xVal = (i / width) * range + minX;
+                if (xVal >= T_crit) break;
+                
+                let dist = T_crit - xVal;
+                let y = height - (1 / dist) * 100; // Arbitrary scaling for visual curve
+                
+                if (i===0) ctx.moveTo(i, y);
+                else ctx.lineTo(i, y);
+            }
+            ctx.stroke();
+        }
+
+        // Init
+        resizeCanvas();
+    </script>
+</body>
+</html>
