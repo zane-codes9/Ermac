@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>SYSTEM_COLLAPSE_ENGINE_V1</title>
+    <style>
+        /* BARE BONES SCIENTIFIC TERMINAL STYLE */
+        body {
+            background-color: #ffffff;
+            color: #000000;
+            font-family: "Courier New", Courier, monospace;
+            margin: 0;
+            padding: 40px;
+            display: flex;
+            flex-direction: row;
+            height: 100vh;
+            box-sizing: border-box;
+        }
+
+        h1 { font-size: 1.2rem; border-bottom: 2px solid #000; padding-bottom: 10px; margin-bottom: 40px; }
+        
+        .panel { flex: 1; padding: 20px; display: flex; flex-direction: column; }
+        .controls { border-right: 2px solid #000; max-width: 350px; }
+        
+        .input-group { margin-bottom: 30px; }
+        label { display: block; font-weight: bold; margin-bottom: 5px; }
+        .desc { font-size: 0.8rem; color: #555; margin-bottom: 10px; display: block; }
+        
+        input[type="range"] { width: 100%; accent-color: black; }
+        .val-display { float: right; }
+
+        .readout-box {
+            margin-top: auto;
+            border: 2px solid #000;
+            padding: 20px;
+            font-size: 1.5rem;
+            font-weight: bold;
+        }
+
+        #plot-area {
+            flex-grow: 1;
+            border: 2px solid #000;
+            margin-bottom: 20px;
+            position: relative;
+        }
+        
+        /* THE RED LINE */
+        #asymptote-line {
+            position: absolute;
+            top: 0; bottom: 0;
+            width: 2px;
+            background-color: red;
+            z-index: 10;
+        }
+        
+        /* THE CURRENT TEMP */
+        #current-temp-line {
+            position: absolute;
+            top: 0; bottom: 0;
+            width: 4px;
+            background-color: black;
+            z-index: 20;
+        }
+        
+        .math { font-style: italic; }
+        
+    </style>
+</head>
+<body>
+
+    <!-- LEFT PANEL: INPUTS -->
+    <div class="panel controls">
+        <h1>// PARAMETER_INPUTS</h1>
+
+        <!-- CAPACITY (Phi) -->
+        <div class="input-group">
+            <label>
+                &Phi; (PHI) - SYSTEM CAPACITY
+                <span class="val-display" id="val-phi">1000</span>
+            </label>
+            <span class="desc">Resources (Beds, Doctors, Speed)</span>
+            <input type="range" id="in-phi" min="500" max="2000" value="1000">
+        </div>
+
+        <!-- POPULATION (N) -->
+        <div class="input-group">
+            <label>
+                N - POPULATION LOAD
+                <span class="val-display" id="val-n">50</span>
+            </label>
+            <span class="desc">Scale of people entering system</span>
+            <input type="range" id="in-n" min="10" max="100" value="50">
+        </div>
+
+        <!-- FRICTION (Alpha) -->
+        <div class="input-group">
+            <label>
+                &alpha; (ALPHA) - FRICTION
+                <span class="val-display" id="val-alpha">1.0</span>
+            </label>
+            <span class="desc">Inefficiency (Poverty/Health status)</span>
+            <input type="range" id="in-alpha" min="0.5" max="3.0" step="0.1" value="1.0">
+        </div>
+
+        <!-- CURRENT TEMP (T) -->
+        <div class="input-group" style="margin-top: 50px;">
+            <label>
+                T - CURRENT TEMP
+                <span class="val-display" id="val-t">40.0°C</span>
+            </label>
+            <input type="range" id="in-t" min="30" max="60" step="0.1" value="40">
+        </div>
+
+        <div class="readout-box" id="status-box">
+            STATUS: STABLE
+        </div>
+    </div>
+
+    <!-- Visualization on right panel -->
+    <div class="panel">
+        <h1>// PHASE_SPACE_VISUALIZATION</h1>
+        
+        <div id="plot-area">
+            <!-- DYNAMIC LINES DRAWN BY JS -->
+            <div id="asymptote-line"></div>
+            <div id="current-temp-line"></div>
+            
+            <!-- Equation overlay -->
+            <div style="position: absolute; top: 10px; right: 10px; font-family: monospace;">
+                Stress = k / (T_crit - T)
+            </div>
+        </div>
+
+        <div style="display: flex; justify-content: space-between; font-size: 1.2rem;">
+            <div>
+                T<sub>crit</sub> (THE WALL): <span id="out-tcrit">--</span>°C
+            </div>
+            <div>
+                Headroom: <span id="out-delta">--</span>°C
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Math
+        // Based on T_crit = Base + Phi / (N * Alpha)
+        
+        const BASE_TEMP = 30; 
+        
+        // DOM Elements
+        const inputs = {
+            phi: document.getElementById('in-phi'),
+            n: document.getElementById('in-n'),
+            alpha: document.getElementById('in-alpha'),
+            t: document.getElementById('in-t')
+        };
+        
+        const displays = {
+            phi: document.getElementById('val-phi'),
+            n: document.getElementById('val-n'),
+            alpha: document.getElementById('val-alpha'),
+            t: document.getElementById('val-t')
+        };
+
+        const outputs = {
+            tcrit: document.getElementById('out-tcrit'),
+            delta: document.getElementById('out-delta'),
+            status: document.getElementById('status-box'),
+            plot: document.getElementById('plot-area'),
+            wallLine: document.getElementById('asymptote-line'),
+            currLine: document.getElementById('current-temp-line')
+        };
+
+        function update() {
+            // 1. Get Values
+            const phi = parseFloat(inputs.phi.value);
+            const n = parseFloat(inputs.n.value);
+            const alpha = parseFloat(inputs.alpha.value);
+            const t = parseFloat(inputs.t.value);
+
+            // Update Input Displays
+            displays.phi.innerText = phi;
+            displays.n.innerText = n;
+            displays.alpha.innerText = alpha;
+            displays.t.innerText = t.toFixed(1) + "°C";
+
+            // 2. Wall (T_crit)
+            // Logic: Capacity divided by Load.
+            // If Alpha (Friction) is high, T_crit drops massive.
+            const t_crit = BASE_TEMP + (phi / (n * alpha));
+            
+            const delta = t_crit - t;
+
+            // 3. Update Outputs
+            outputs.tcrit.innerText = t_crit.toFixed(2);
+            outputs.delta.innerText = delta.toFixed(2);
+
+            // 4. Update Visuals
+            // Map Temp 30-60 to Percentage 0-100
+            const mapT = (temp) => ((temp - 30) / (60 - 30)) * 100;
+            
+            const wallPos = mapT(t_crit);
+            const currPos = mapT(t);
+
+            outputs.wallLine.style.left = Math.min(wallPos, 100) + "%";
+            outputs.currLine.style.left = Math.min(currPos, 100) + "%";
+
+            // 5. Status Logic
+            if (delta <= 0) {
+                outputs.status.innerText = "Collapse";
+                outputs.status.style.color = "white";
+                outputs.status.style.backgroundColor = "black";
+                outputs.currLine.style.border = "2px solid red";
+            } else if (delta < 1.5) {
+                outputs.status.innerText = "Evacuate";
+                outputs.status.style.color = "red";
+                outputs.status.style.backgroundColor = "white";
+                outputs.currLine.style.backgroundColor = "red";
+            } else {
+                outputs.status.innerText = "Stable";
+                outputs.status.style.color = "black";
+                outputs.status.style.backgroundColor = "white";
+                outputs.currLine.style.backgroundColor = "black";
+            }
+        }
+
+        // Listeners
+        Object.values(inputs).forEach(i => i.addEventListener('input', update));
+        
+        // Init
+        update();
+
+    </script>
+</body>
+</html>

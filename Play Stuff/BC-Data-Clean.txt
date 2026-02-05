@@ -1,0 +1,161 @@
+Here is the comprehensive, verbatim extraction of raw data, facts, and evidence from the provided documents.
+
+---
+
+### **SOURCE 1: THE CASE FOR ADAPTING TO EXTREME HEAT (Canadian Climate Institute, June 2023)**
+
+#### **Part 1: The Page 10 Graph (Verbatim Data Extraction)**
+*This section translates the visual graph "THE B.C. HEAT WAVE of June 2021" into raw data points.*
+
+**Daily High Temperatures (°C)**
+*   **June 25:** Lytton (34.2), Abbotsford (34.2), YVR (25.6)
+*   **June 26:** Lytton (39.2), Abbotsford (39.6), YVR (32.3)
+*   **June 27:** Lytton (43.8), Abbotsford (41.5), YVR (31.1)
+*   **June 28:** Lytton (45.2), Abbotsford (42.9), YVR (32.4)
+*   **June 29:** Lytton (49.6 - *New Canadian record high*), Abbotsford (42.9), YVR (32.4)
+*   **June 30:** Lytton (Burned), Abbotsford (Not listed), YVR (24.2)
+
+**Daily Deaths from Heat-Related Illnesses**
+*   **June 25:** 9 people
+*   **June 26:** 15 people
+*   **June 27:** 56 people
+*   **June 28:** 137 people
+*   **June 29:** 234 people
+*   **June 30:** 58 people
+
+**Timeline of Critical Events (Verbatim)**
+*   **Pre-Event:** "The United States National Weather Service issues an Excessive Heat Watch for the Pacific Northwest."
+*   **Pre-Event:** "Environment and Climate Change Canada issues a Yellow Weather Notification... rates the risk as having a high likelihood and a low impact for most of the province."
+*   **June 25 (2 p.m.):** "The Lower Mainland health authorities declare an Extreme Heat Alert."
+*   **June 25:** "The B.C. Ministry of Public Safety and Solicitor General releases a statement asking residents to take precautions over the weekend."
+*   **June 26:** "Health clinics and long-term care homes on Vancouver Island report indoor temperatures of over 30° C."
+*   **June 27:** "Across the Lower Mainland about 150 people are seen at emergency departments for heatstroke and dehydration."
+*   **June 28:** "BC Hydro breaks the all-time summer peak electricity demand record."
+*   **June 28:** "60 temperature records are broken in communities across B.C."
+*   **June 28:** "Surrey Memorial Hospital brings in temporary coolers as an overflow morgue."
+*   **June 28:** "WorkSafeBC advises employers to consider workplace closures."
+*   **June 29:** "Nearly 12,000 911 calls are made in the province, a new daily record."
+*   **June 29:** "For the first time, all but two public school districts in the Lower Mainland close due to heat."
+*   **June 29:** "Administrators at hospitals across the Lower Mainland send out requests for additional staff due to patient surges."
+*   **June 30:** "B.C. Emergency Health Services adds 14 dispatchers and opens up central Emergency Operations Centre."
+*   **June 30:** "Heat exacerbates the severity of a wildfire, which burns most of the town of Lytton."
+
+---
+
+#### **Part 2: Raw Data & Costs (Verbatim Extraction)**
+
+**The Human Cost**
+*   "619 lives lost from heat exposure."
+*   "The deadliest disaster in provincial history."
+*   "We estimate that avoiding these deaths has an economic value of **$5.5 billion dollars** when based on the Value of a Statistical Life."
+*   "Healthcare costs attributed to the heat wave amounted to **$12 million**."
+*   "Heat-related deaths were the single greatest cost of the 2021 heat wave."
+*   "About 45 per cent of the individuals who died, had resuscitation attempts or interventions."
+*   "We estimate that the average healthcare cost for individuals that died suddenly averaged $7,028 per person."
+
+**Future Projections (Modeling Data)**
+*   "Climate models indicate that sustained temperatures similar to the 2021 heat wave have a 10 per cent chance of reoccurring in B.C. within the next two decades."
+*   "By mid-century, B.C. could experience temperatures similar to the heat wave an average of three out of every ten years."
+*   "Southern Ontario will see a near doubling in the number of days over 30° C per year by mid-century."
+*   "In Whitehorse the number of days over 30° C are projected to increase from one day every decade, to two days every year by mid-century—a 20-fold increase."
+*   "Without action on adaptation there could be an average of **1,370 heat-related deaths per year by 2030**."
+*   "In a high-warming scenario, costs due to heat-related hospitalizations will rise to over **$250 million per year** toward the end of the century."
+
+**Workplace & Economic Productivity**
+*   "Heat-related workplace injuries requiring compensation increased by **180 per cent** during the heat wave."
+*   "Average cost of heat-related workplace claims in the entire year of 2021 was $2,800 per worker."
+*   "Workers lost between **$205 million and $328 million in income** (based on an estimated 40 to 60 per cent reduction in hours worked during a four-day period)."
+*   "Impacts to the transportation and warehousing sector as well as the construction sector could amount to approximately 4 per cent losses in future GDP."
+*   "By mid-century... a 4.5 per cent loss due to heat impacts" in the manufacturing sector.
+
+**Health System Failure Points**
+*   "1,300 excess emergency department visits across the Lower Mainland alone—a 6 per cent increase."
+*   "Patients triaged as being at 'imminent risk of death' (Canadian Triage and Acuity Scale of I) increased by about 170 per cent."
+*   "Ambulance response time increased by 33 per cent for critical patients."
+*   "At the peak of the heat wave, only 18 per cent of emergency department patients were admitted to Fraser Health hospitals within ten hours."
+*   "530 excess hospitalizations across the province during the week of the heat wave."
+*   "Chillers for MRI and CT equipment were not able to provide sufficient cooling... CT scanners at Lions Gate Hospital... and Whistler Hospital were inoperable."
+*   "Acute care floor at Lions Gate Hospital got as hot as 38° C."
+
+**Infrastructure & Transport Data**
+*   "Over 400 transformers failed due to the high power load."
+*   "Peak hourly demand record on June 28 of 8,568 megawatts... surpassed the previous one by 600 megawatts."
+*   "Main fleet of helicopters... has a stated maximum operating temperature of 45° C... suggesting that air ambulances may not be able to perform all of their necessary functions."
+*   "By mid-century, we estimate that there would be at least two weeks each summer that some helicopters would be grounded."
+*   "Wear and tear on B.C.’s roads... cost the provincial and municipal governments an estimated additional **$175 million per year by 2030**."
+
+**Agriculture & Food Systems**
+*   "661,000 poultry died... represents more than $5 million in revenue losses."
+*   "One million wild mussels died in a 100-metre stretch of shoreline in the Salish Sea alone."
+*   "Total revenue of commercial mussel farmers in B.C. declined by 40 per cent."
+*   "Raspberry sales in 2021 were over $6 million less... a 35 per cent decline."
+*   "Cherry sales were down by nearly $15 million—a 19 per cent decline."
+*   "Tree fruit industry lost over $17 million in revenue."
+*   "Half a million litres of milk were discarded."
+
+**Housing & Built Environment**
+*   "In 2021, 64 per cent of households in B.C. did not have air conditioning."
+*   "Indoor building temperatures rose to nearly 40° C in Abbotsford and remained hotter than outdoor temperatures throughout the night."
+*   "98 per cent of deaths and hospital visits during the heat wave were due to extreme temperature exposure inside buildings."
+*   "Only 7.4 per cent of people who died... had air conditioning in their homes."
+
+---
+
+### **SOURCE 2: EXTREME HEAT AND HUMAN MORTALITY (BC Coroners Service, June 7, 2022)**
+
+#### **Part 1: The Death Toll (Verbatim Data)**
+*   **Total Deaths:** "619 deaths have been identified as being caused by extreme heat."
+*   **Indoor Factor:** "98% of deaths occurred indoors."
+*   **Demographics:**
+    *   "67% (415) of decedents were 70 years of age or older."
+    *   "90% were over age 60."
+    *   "More than half of all decedents (56%) lived alone."
+    *   "There were no deaths among infants or children, or persons younger than age 30."
+*   **Geography (Rates per 100,000):**
+    *   Burnaby: 29.3
+    *   New Westminster: 41.8
+    *   Chilliwack: 29.0
+    *   Vancouver: 17.7
+    *   Fraser Health Authority: 15.9 (Highest rate by Health Authority)
+*   **Specific Locations:**
+    *   "73% occurred in private residences."
+    *   "10% occurred in social housing, single room occupancy (SRO), or supportive housing."
+    *   "7% occurred in senior or long-term care homes."
+
+#### **Part 2: Medical & Physiological Factors (Verbatim)**
+*   **Chronic Disease:** "91% of decedents were assigned to at least one chronic disease registry."
+*   **Specific Conditions (Prevalence in decedents):**
+    *   Hypertension: 71%
+    *   Mood and Anxiety Disorders: 60%
+    *   Depression: 54%
+    *   Diabetes: 37%
+    *   Osteoarthritis: 33%
+    *   Schizophrenia: 13% (Noted as having a higher percentage compared to general BC population).
+*   **Cognitive/Mobility Impact:** "More than 80% of decedents were on three or more chronic disease registries."
+*   **Medical Contact:** "More than 60% of decedents had seen a medical professional within the month prior to their death."
+
+#### **Part 3: Environmental Conditions (Verbatim)**
+*   **Temperature:** "For 61% of deaths the max temperature was 35°C or greater."
+*   **Indoor Heat:** "Indoor temperatures... consistently exceeding 26°C during the extreme heat event."
+*   **Air Conditioning:** "46 (7%) decedents had air conditioning present in their residence. Of those, 7 (15%) were on at the time of death."
+*   **Fans:** "Fans were used in 24% of residences."
+*   **Deprivation:** "28% of decedents lived in neighbourhoods that were most materially deprived."
+
+#### **Part 4: Emergency Response Metrics (Verbatim)**
+*   **911 Volume:** "Call volumes increased... to as high as 11,970 calls on June 28."
+*   **Delays:**
+    *   "Between June 26-June 30, 29% of calls took more than 5 seconds to be answered."
+    *   "On June 29, 52% of calls took more than 5 seconds to answer."
+    *   "44% of transfers... taking more than 45 seconds."
+*   **Ambulance Dispatch:**
+    *   "Between June 26-30, BCEHS dispatched an ambulance to an average of 80% of events, down from over 90%."
+    *   "Paramedics attended 54% (332) of deaths."
+    *   "In 50 instances, paramedics took 30 minutes or longer from time of call to scene attendance."
+    *   "In 6 instances, callers were told that there was no ambulance available at the time of call."
+    *   "Where BCEHS attended, 83% of patients were dead or died at the scene."
+
+#### **Part 5: Findings on System Failures (Verbatim)**
+*   "There was a lag between the heat alerts issued by Environment and Climate Change Canada (ECCC) and public agencies and the public response."
+*   "Most decedents were in homes without adequate cooling systems such as air conditioners or fans."
+*   "911 calls doubled during the peak of the heat dome."
+*   "First responders reported that lack of other agency availability (including coroner response) resulted in personnel remaining on scene for extended periods."

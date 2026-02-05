@@ -1,0 +1,57 @@
+import numpy as np
+import matplotlib.pyplot as plt
+from scipy.optimize import curve_fit
+
+# CONFIGURATION
+plt.rcParams.update({
+    "font.family": "serif",
+    "mathtext.fontset": "cm",
+    "font.size": 12,
+    "axes.linewidth": 1.2,     # Slightly thicker for projector visibility
+    "lines.linewidth": 2,      # Thicker lines for projector visibility
+    "xtick.direction": "in",
+    "ytick.direction": "in"
+})
+
+temps = np.array([39.2, 43.8, 45.2, 46.6, 47.9])
+deaths = np.array([9, 15, 56, 137, 234])
+
+# MODELS
+def model_linear(t, m, c):
+    return m * t + c
+
+def model_asymptotic(t, k, t_crit):
+    return np.where(t < t_crit, k / (t_crit - t), np.inf)
+
+popt_lin, _ = curve_fit(model_linear, temps, deaths)
+
+try:
+    popt_asym, _ = curve_fit(model_asymptotic, temps, deaths,
+                             p0=[500, 48.5], bounds=([1, 48.0], [5000, 55]))
+    k_fit, tc_fit = popt_asym
+except RuntimeError:
+    k_fit, tc_fit = 100, 50
+
+# PLOTTING
+t_smooth = np.linspace(38, tc_fit - 0.05, 1000)
+y_lin = model_linear(t_smooth, *popt_lin)
+y_asym = model_asymptotic(t_smooth, k_fit, tc_fit)
+
+fig, ax = plt.subplots(figsize=(7, 5)) # Slightly larger for PPT
+
+ax.scatter(temps, deaths, color='k', s=80, label='Observations', zorder=10)
+ax.plot(t_smooth, y_lin, 'k--', label='Linear Fit')
+ax.plot(t_smooth, y_asym, color='#cc0000', label='Asymptotic Fit')
+
+ax.axvline(x=tc_fit, color='k', linestyle=':', linewidth=1)
+ax.text(tc_fit + 0.3, 150, r'$T_{crit} \approx ' + f'{tc_fit:.1f}' + r'^\circ\mathrm{C}$',
+        rotation=90, verticalalignment='center', fontsize=11)
+
+ax.set_xlabel(r'Maximum Temperature ($^\circ\mathrm{C}$)')
+ax.set_ylabel(r'Daily Deaths')
+ax.set_ylim(-20, 350)
+ax.set_xlim(38, 51)
+ax.legend(frameon=False, loc='upper left')
+
+# EXPORT
+plt.savefig("heat_dome_collapse.png", dpi=300, transparent=True, bbox_inches='tight')

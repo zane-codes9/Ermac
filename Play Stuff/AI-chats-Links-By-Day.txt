@@ -1,0 +1,18 @@
+
+
+Copy all developments of AI/AI chats here
+
+Thesis, Old chat:
+
+2025-01-29, 7:30 AM
+
+https://drive.google.com/file/d/1A3TxXY0HGt7zYmAoeJF3bQTMSecCslFJ/view?usp=sharing, https://drive.google.com/file/d/1BezU0Mo3WZEHedcs8a7lEjw-BwZjTGCj/view?usp=sharing, https://drive.google.com/file/d/1OrF0QU9gvJUJzavkWGK4eRINV7Nfhggt/view?usp=sharing, https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221RZU4Q7XZlseFd-rn-hayVGNSxWCW-MHP%22%5D,%22action%22:%22open%22,%22userId%22:%22112617834999725900654%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing
+
+---
+
+https://aistudio.google.com/prompts/1ri4OP2DRQ9HZ9swHWl8MKrgEWe96ASin --> zherkoten, 2025-02-05, Stacey pres
+
+https://aistudio.google.com/prompts/1cNEPYLvGjWqwA8apM2NaRNlEzwOPDa-2 --> zherkoten, this is for trying to make the script but failing miserably, switched back to the one above
+
+
+https://aistudio.google.com/prompts/1mSI4YfrJdXlHOm3ezsXBBTpx8ZK6rMfX --> BC heat dome data extraction

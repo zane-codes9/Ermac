@@ -1,0 +1,8 @@
+\begin{align*}
+    \frac{dA}{dt} &= \text{In} - \text{Out} \\[1em]
+    \text{In} &= \beta T \\[0.5em]
+    \text{Out} &= \mu \left( 1 - \frac{T}{T_c} \right) A \\[1em]
+    \text{Equilibrium} &\implies \frac{dA}{dt} = 0 \\[1em]
+    \beta T &= \mu \left( 1 - \frac{T}{T_c} \right) A \\[1em]
+    \therefore \quad A(T) &= \frac{K}{1 - \frac{T}{T_c}}
+\end{align*}

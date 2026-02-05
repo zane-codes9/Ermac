@@ -1,0 +1,1 @@
+I used https://latex2image.joeraut.com to put the code and make it PNG and scaled to 500
