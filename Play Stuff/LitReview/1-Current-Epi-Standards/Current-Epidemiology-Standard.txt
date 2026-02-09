@@ -1,0 +1,503 @@
+Keywords:
+
+"temperature-mortality relationship" AND ("heat wave" OR "extreme heat") AND ("linear" OR "DLNM" OR "threshold") AND "health system" -review
+
+---
+
+Metadata
+1. Title: Estimating Heat-Associated Mortality in England: Methodological Framework of
+UKHSA’s Heat Mortality Surveillance System
+Authors: Ross Thompson1, Imogen Davies1, Nick Andrews2, Agostinho Sousa1
+Affiliations
+1Extreme Events and Health Protection Team, UKHSA, London, United Kingdom
+3UK Health Security Agency, 61 Colindale Avenue, London NW9 5EU, United Kingdom
+Corresponding Author: Ross Thompson
+Corresponding address: UK Health Security Agency 10 South Colonnade Canary Wharf
+London E14 4PU
+Abstract
+Extreme heat is an escalating public health risk in England, linked to substantial heat-
+associated mortality. Reliable, timely estimates are essential to monitor impacts, identify
+vulnerable groups, and evaluate the effectiveness of public health responses. However,
+existing approaches, such as reliance on heat-specific causes of death or use of statistical
+models to estimate heat-attributable mortality, risk underestimation or oversimplify the
+burden on health.
+This study presents the UK Health Security Agency’s (UKHSA) hybrid surveillance method,
+which combines estimates of observed all-cause heat-associated deaths during defined heat
+episodes with modelled expectations based on recent temperature–mortality relationship.
+Observed estimates provide transparent, episode-specific figures disaggregated by age,
+sex, setting, cause, and geography, while modelled outputs help to contextualise whether
+real-world impacts align with recent trends.
+Applied to summer 2024, the approach identified four heat episodes and an estimated 1,311
+heat-associated deaths (95% CI: 929–1,692), concentrated among older adults. Modelled
+estimates suggested 1,028 deaths (95% CI: 866–1,155). Although confidence intervals
+overlapped, observed mortality was consistently higher than predicted, particularly during
+earlier summer episodes, suggesting that factors beyond temperature may have amplified
+observed impacts. Later episodes, by contrast, showed closer alignment between observed
+and expected figures, indicating potential seasonal adaptation or improved preparedness.
+By integrating observed mortality with modelled context, UKHSA’s approach avoids
+underestimation, supports evaluation of Heat-Health Alerts, and enables year-on-year
+monitoring of progress in reducing risks. This dual-method framework provides a practical,
+reproducible tool for national surveillance and strengthens the evidence base for targeted
+interventions and climate adaptation planning.
+Keywords: Heat-associated mortality, UKHSA, surveillance methodology, public health.
+
+---
+
+2. Impact of temperature on morbidity: New evidence from China☆
+
+Abstract
+This paper investigates the relationship between temperature and hospitalization in China. Using inpatient visit claims of two major public insurance schemes covering 47 cities in 28 provinces for three years, we see a 7.3% increase in hospital admissions on days on which the average temperature is above 27 °C, and a 2% increase in 31-day cumulative hospital admissions relative to a benchmark-temperature day in the subsequent weeks. Such an effect is much larger than evidence from developed economies. Using detailed information on medical bills, we calculate that an additional hot day nationwide is associated with approximately 2 billion yuan (roughly equivalent to 0.3 billion US dollars) increase in medical expenses that are related to inpatient services, 1.9 billion yuan (roughly equivalent to 0.29 billion US dollars) of which is borne by the public insurance system, and 0.2 billion yuan (roughly equivalent to 0.01 billion US dollars) of which is borne by the insured.
+
+---
+
+3. The effect of heat waves on mortality and effect modifiers in four communities of Guangdong Province, China
+
+The effect of heat waves on mortality and effect modifiers in four communities of Guangdong Province, China
+Author links open overlay panelWeilin Zeng a 1, Xiangqian Lao b 1, Shannon Rutherford c, Yanjun Xu d, Xiaojun Xu d, Hualiang Lin a, Tao Liu a, Yuan Luo a, Jianpeng Xiao a, Mengjue Hu a, Cordia Chu c, Wenjun Ma a
+Show more
+Outline
+Share
+Cite
+https://doi.org/10.1016/j.scitotenv.2014.02.049
+Get rights and content
+Full text access
+Highlights
+
+    •
+    Mortality effects of extreme heat were mainly explained by high temperature.
+    •
+    Extreme heat effects were higher for the rural areas than urban areas.
+    •
+    Extreme heat effects were higher for respiratory mortality, for the elderly and for females.
+
+Abstract
+Background
+Heat waves have been reported to be associated with increased mortality; however, fewer studies have examined the effect modification by heat wave characteristics, individual characteristics and community characteristics.
+Methods
+This study investigated the effect of extreme heat on mortality in 2 urban and 2 rural communities in Guangdong Province, China during 2006–2010. The effect of extreme heat was divided into two parts: main effect due to high temperature and added effect due to prolonged heat for several consecutive days. A distributed lag non-linear model was used to calculate the relative risk with consideration of lag days and potential confounding factors. Separate models were further fit by individual characteristics (cause of death, age and gender) and heat wave characteristics (intensity, duration and timing), and potential effect modification of community characteristics was examined using a meta-regression, such as educational levels, percentage of the elderly, Gross Regional Domestic Product (GDP).
+Results
+The overall main effects (ER = 8.2%, 95% CI: 3.4%, 13.2%) were greater than the added effects (ER = 0.0%, 95% CI: − 3.8%, 4.0%) on the current day. The main effect peaked at lag0–2, and was higher for the two rural areas compared to the two cities, for respiratory compared to cardiovascular mortality, for those ≥ 75 years old and for females. The modifying effects of heat wave characteristics and community characteristics on mortality were not statistically significant.
+Conclusion
+This study suggests the effects of extreme heat were mainly driven by high temperature, which can be modified by some individual characteristics.
+
+    Previous article in issue
+    Next article in issue
+
+Keywords
+China
+Climate change
+Extreme temperature
+Heat waves
+Mortality
+
+
+---
+
+4. Different response of human mortality to extreme temperatures (MoET) between rural and urban areas: A multi-scale study across China
+
+Abstract
+Background
+The environmental variation in mortality due to extreme temperatures has been well-documented by many studies. Mortality to extreme temperatures (MoET) was recognized to vary geographically, either by countries within a region or by areas within a country. However, so far, little attention has been paid to rural residents, with even lesser attention on the potential rural-urban differences. The aim of our study was to offer a quite comprehensive analysis on the differences in temperature-mortality relationship between rural and urban areas across China.
+Method
+A distributed lag nonlinear model was built to describe the temperature-mortality relationship, based on the mortality data and meteorological variable of 75 communities in China from 2007 to 2012. Subsequently, a meta-analysis was applied to compare the differences in the temperature-mortality relationship between rural and urban areas at various levels.
+Results
+Distinct responses regarding MoET between rural and urban areas were observed at different spatial scales. At regional level, more U-shaped curves were observed for temperature-mortality relationships in urban areas, while more J-shaped curves were observed in rural areas. At national scale, we found that the cold effect was stronger in rural areas (RR: rural 1.69 vs. urban 1.51), while heat effect was stronger in urban areas (RR: rural 1.01 vs. urban 1.12). Moreover, the modifying influence of air pollution on temperature-mortality relationship was found to be very limited.
+Conclusion
+The difference in response of MoET between rural and urban areas was noticeable, cold effect is more significant in China both in rural and urban areas. Additionally, urban areas in southern China and rural areas in northern China suffered more from extreme temperature events. Our findings suggest that differences in rural-urban responses to MoET should be taken seriously when intervention measures for reducing the risks to residents’ health were adopted.
+
+    Previous article in issue
+    Next article in issue
+
+Keywords
+Extreme temperature
+Public health
+Difference between rural and urban areas
+China
+Air pollution effect
+
+---
+
+5. Prioritizing-Climate-Change-Health
+
+106 DOI: 10.4324/9781003190516-14
+Introduction
+Climate change is causing an increase in the severity and frequency of
+extreme weather events and disasters. It is leading to two major changes in
+weather – an increase in average temperatures and an increase in variability
+of weather. This leads to the increased possibilities of severe heat and cold
+waves. In the last twenty years, extreme heat events have become more
+intense, more frequent and longer-lasting, posing a new global challenge to
+the health sector worldwide. Extreme heat can lead to dangerous, even
+deadly, health consequences, including heat stress and heatstroke. As urban
+populations continue to grow, there is an increasingly urgent need for cities
+and their residents to adapt to climate change and its impact.
+Fortunately, heat-related illnesses are preventable with effective public
+health interventions. In India, the city of Ahmedabad took the lead in imple-
+menting a citywide preparedness plan and developing city-specific heat-
+health thresholds. The Indian Institute of Public Health, Gandhinagar
+(IIPHG), in collaboration with other partners, developed and implemented
+these threshold- based heat action plans. The experience in Ahmedabad pro-
+vides compelling evidence that heat action plans can meaningfully reduce
+vulnerability to extreme heat and save lives. This chapter will describe
+1. Heat waves and their health impacts from the perspective of public
+health.
+2. Heat Action Plans as public health interventions to reduce heat-related
+illnesses.
+Heat waves
+Extreme temperatures are among the most dangerous natural hazards. Over
+the past five decades, human activities have released ample greenhouse gases
+(GHGs), raising the mean global temperature and resulting in an increase in
+the frequency and intensity of heat waves (Tollefson, 2018). Heat waves are
+11
+PRIORITISING CLIMATE CHANGE
+AND HEALTH: THE CURRENT
+STATUS OF HEAT-HEALTH IN INDIA
+Priya Dutta, Mahaveer Golechha and Dileep Mavalankar
+T H E S T A T U S O F H E A T H E A L T H I N I N D I A107
+anticipated to worsen with climate change, leading to several heat-related
+health consequences (Gasparrini et al., 2017; Nori-Sarma et al., 2019).
+A heat wave is a prolonged period of abnormal high temperature which
+causes temporary modifications in lifestyle and adverse health effects in the
+population (Robinson, 2001). In India, heat waves usually occur during the
+summer months of April to June. In some rare cases, they may start in
+March and extend till the first or second week of July. The exact definition
+of a heatwave varies by location, ambient temperature, humidity and physi-
+cal, social and cultural adaptations (Robinson, 2001). The Indian
+Meteorological Department (IMD) declares a heat wave when there is an
+excess of 5°C or 6°C above a normal maximum temperature less than or
+equal to 40°C; or an excess of 4°C to 5°C above a normal maximum tem-
+perature of more than 40°C (NDMA, 2019). However, if the actual maxi-
+mum temperature is 45°C or more, a heat wave is declared irrespective of
+the normal maximum temperature. The normal temperature for that day is
+derived from a 30-year record of historical temperatures for that area’s
+weather station (NDMA, 2019). The IMD definition does not take into
+account any health impacts such as morbidity or mortality in determining
+thresholds for declaring heat waves.
+The impact of heat waves on human health
+Several research studies have shown an increased number of deaths during
+heat waves (D'Ippoliti et al., 2010). In 2003, a heat wave in Europe caused
+excess mortality estimates varying from 25,000 to 70,000 deaths (Maughan,
+2012). Very few studies have been conducted in India to assess the effect of
+ambient temperature on human health. In India, from 1992 to 2015, heat
+waves have caused 22,653 officially reported deaths; this number includes
+over 2,500 deaths in India’s deadliest heat wave during the summer of 2015
+(NDMA, 2019). Heat- related morbidity and mortality can occur due to
+direct or indirect effects. Direct effects include heat-related illnesses from
+heat exhaustion to heat stroke. The indirect effects on physiological systems
+can cause renal insufficiency and exacerbate cardiovascular diseases, respi-
+ratory problems and acute cerebrovascular disease.
+According to the latest study by the Indian Meteorological Department
+(IMD) and the Indian Institute of Tropical Meteorology (IITM), the average
+heat index of India has increased significantly per decade at the rate of
+0.56°C and 0.32°C in summer and monsoon respectively, which is statisti-
+cally significant at 95% level (Jaswal et al., 2017). The heat index is a single
+number which is calculated based upon a combination of different environ-
+mental parameters such as temperature and humidity to posit a human-
+perceived equivalent temperature.
+During heat waves, hospital admissions also increased due to people suf-
+fering from heat exhaustion, heat syncope, severe dehydration and
+P R I Y A D U T T A E T A L .108
+vomiting. Depletion of salt and electrolytes in the body can cause heat
+cramps while working under the direct sun could lead to heat exhaustion.
+The total impact of heat wave events on mortality in India could be even
+higher, as these figures probably refer to reported deaths from heatstroke
+only. Morbidities due to heat waves are not even counted.
+Populations at risk
+An increase in ambient temperature contributes directly to an increase in
+mortality, particularly among those who are vulnerable. Pregnant women,
+elderly people and young children are more vulnerable to extreme heat.
+Elderly age group: Ageing can be characterised by a complex process in
+which progressive age-specific deteriorations of internal physiological
+systems inevitably impair the body’s capacity to respond to extreme
+heat. In the elderly population, there is also a deterioration in the abil-
+ity to dissipate heat, a process pivotal to the maintenance of normal
+core temperature, especially in extreme heat conditions. Further, heat-
+related illnesses can also exacerbate existing medical conditions that
+can make elderly more vulnerable to extreme heat.
+Pregnant women: Pregnant and postpartum women and their infants
+are uniquely vulnerable to the health impacts of heat waves, due
+to the many physiological changes that occur as a result of preg-
+nancy. Pregnancy increases likelihood for fatigue and dehydration.
+Dehydration can lead to preterm uterine contractions and even labour.
+Infants and children: Due to their anatomical, cognitive, immunological
+and psychological differences, children and infants are more vulner-
+able to extreme heat than adults. Because of their small surface-to-
+body ratio, infants and children are more vulnerable to dehydration
+and heat stress. During extreme heat events, children are more likely
+to be affected by respiratory disease, renal disease, electrolyte imbal-
+ance and fever.
+The urban heat island effect
+Heat waves have a much larger health impact in cities than in surrounding
+suburban and rural areas. Indian cities are rapidly urbanising with skyrock-
+eting development that converts open space into paved, heat-trapping roofs
+and roads. These hot surfaces absorb and later re-radiate the sun’s thermal
+energy, worsening city temperatures relative to surrounding rural areas,
+thereby amplifying the urban heat island effect and increased air pollution
+(Singh et al., 2020).
+There are a number of evidences suggesting that heat-related risks might
+be reduced through the systemic development of Heat Action Plans which
+include early warning systems, community awareness strategies and
+T H E S T A T U S O F H E A T H E A L T H I N I N D I A109
+capacity building of various stakeholders (Hess et al., 2018; Benmarhnia et
+al., 2019). Therefore, public health intervention is required to deal with the
+impact of heat waves on human health in India. The heat action plan should
+be an essential component of city planning for the management and preven-
+tion of heat-related illnesses. In India, several efforts have been made to
+implement public health strategies to combat the negative effect of heat
+waves (Box 11.1).
+Box 11.1 Case study
+The development and implementation of South Asia’s first
+heat action plan in Ahmedabad, Gujarat, India
+In May 2010, the city of Ahmedabad in Gujarat witnessed a major
+heat wave with a peak temperature of 47°C on 21 May, resulting in
+over 300 deaths in one day and in excess of 800 deaths in one week
+(Azhar et al., 2014) (Figure 11.1). Following this, the Indian Institute
+of Public Health, Gandhinagar (IIPHG), supported by national and
+international partners, developed and implemented a Heat Action
+Plan (HAP) in Ahmedabad in 2013. Heat wave early warning systems
+and adaptation plans have reduced heat wave related mortalities and
+morbidities in various parts of the world (Knowlton et al., 2014). The
+Heat Action Plan implemented in Ahmedabad was the first innova-
+tive early warning system and preparedness plan for extreme heat
+Figure 11.1 Daily temperatures and all-cause mortality correlation graph of
+Ahmedabad, Gujarat.
+P R I Y A D U T T A E T A L .110
+events in South Asia, based on learnings from Europe and America
+(Knowlton et al., 2014).
+Heat action plans include early warning systems that alert citizens
+and organizations in advance of extreme heat, and enable them to
+respond effectively to save lives. The important strategies of the
+Ahmedabad Heat Action Plan involved the following components:
+firstly, building public awareness and community outreach; secondly,
+an early warning system and inter-agency coordination; thirdly,
+capacity building of healthcare professionals; and finally, reducing
+heat exposure and promoting adaptive measures (Figure 11.2). One
+of the most important components of a Heat Action Plan is the inter-
+agency emergency response framework for effective coordination
+between various departments of municipal administration
+(Figure 11.3). The administration issues a heat alert based on thresh-
+olds determined by the IMD, and uses a colour signal system as an
+additional means of communication. Depending on the alert that has
+been issued, different departments will activate their channel and per-
+form pre-defined activities (Table 11.1).
+Figure 11.2 Ahmedabad heat action plan strategies.
+T H E S T A T U S O F H E A T H E A L T H I N I N D I A111
+The impact of the Ahmedabad heat action plan in
+reducing mortality due to extreme heat events
+A preliminary health outcome evaluation analysis suggests that there was at
+least a 25% decrease from May’s excess all-cause mortality in the two years
+since the HAP was launched (Hess et al., 2018). Hess et al. estimated that
+Figure 11.3 The inter-agency emergency communication plan when the
+Ahmedabad Municipal Corporation (AMC) nodal officer acti-
+vates a heat alert.
+Table 11.1 Colour signals for heat alerts
+Red Alert (Severe
+Condition)
+Extreme Heat Alert Day An increase of 6°C or
+more above Normal
+Maximum Temperature
+Orange Alert (Moderate
+Condition)
+Heat Alert Day An increase of 4°C to 5°C
+above the Normal
+Maximum Temperature
+Yellow Alert (Heat- wave
+Warning)
+Hot Day Advisory Near the Normal
+Maximum Temperature
+White (Normal) Normal Day Below the Normal
+Maximum Temperature
+P R I Y A D U T T A E T A L .112
+the Ahmedabad Heat Action Plan (HAP) saves hundreds of lives every sum-
+mer, and found a decrease in all-cause mortality in the first two years
+(2014–2015) after the HAP was implemented. The results of this ecological
+study indicate that the HAP was associated with reduced mortality during
+the heat season in 2014–2015, especially at higher temperatures (Hess et
+al., 2018). The Ahmedabad HAP was successful in reducing heat-related
+illnesses, and the plan has been scaled up in other places across the nation
+such as Odisha and the Vidarbha region of Maharashtra. The National
+Disaster Management Authority (NDMA) has developed national guide-
+lines for the prevention and management of heat waves based on the
+Ahmedabad HAP (Box 11.2).
+In subsequent years, cool roof technologies have been added as an addi-
+tional important strategy under the Heat Action Plan. Cool roofs reflect
+sunlight and absorb less heat, offering a simple and cost-effective solution
+to the urban heat island challenge. A study conducted in Ahmedabad slums
+found that cool roof technologies such as thermocol insulation and solar
+reflective white paint on the outer surface of the roof can effectively reduce
+the indoor temperature as compared to non-intervention roofing (Vellingiri
+et al., 2020).
+Limitations to the development and implementation of HAPs
+An important limitation to the effective development and implementation
+of a heat action plan is the unavailability of health-related data on heat-
+related illnesses on a daily or weekly basis. Without health-related data, it is
+impossible to work out a city-specific temperature threshold and heat stress
+index. There are several challenges to conducting heat health research in
+India. Due to the modest registration of deaths, it is very difficult to obtain
+all- cause mortality data. Furthermore, it is difficult to understand the effects
+of heat on cause-specific mortality in sufficiently large sample sizes. Another
+limitation is the lack of India-specific or region-specific Heat Stress Index
+data. The present early warning system is largely based on epidemiological
+studies which links temperature and mortality data, i.e. by correlating the
+daily temperature- mortality relationship.
+Due to the efforts of the National Disaster Management Authority, the
+Indian Meteorological Department and IIPHG, many cities have developed
+their heat action plans based on the Ahmedabad HAP. However, effective
+implementation is lacking, as there is no state-level monitoring.
+At the national level, the Ministry of Health, the Ministry of the
+Environment and other line ministries should work jointly under the
+National Mission on Climate Change and Human Health to implement
+climate resilience heat action plans. The government should prioritise inte-
+grating climate services for health in public health policy and planning.
+T H E S T A T U S O F H E A T H E A L T H I N I N D I A113
+Key takeaways
+• The chapter discusses the role of heat action plans and heat health
+research in improving the resilience of communities against extreme
+heat events and for the prevention and management of heat-related
+illnesses.
+Box 11.2 Case study
+The development and implementation of India’s first climate
+resilience heat action plan in rural settings under the
+Rajasthan climate change project
+More than two-thirds of the population of Rajasthan live in rural
+areas. There has been an increasing trend of heat waves in Rajasthan
+over the past several years in which several cities in Rajasthan have
+been severely affected. The Thar Desert area consists of 12 districts
+covering 60% of the area of Rajasthan and is largely affected by
+extreme heat events. The IIPHG partnered with UNCIEF Rajasthan
+and the Government of Rajasthan for the development and implemen-
+tation of a climate resilience heat action plan in rural settings. The aim
+of this project was to pilot a model for the prevention and manage-
+ment of heat waves in the rural settings of Rajasthan, based on learn-
+ings from Ahmedabad. The project districts in the pilot were Jalore,
+Udaipur and Jaipur. The important activities of the project were:
+• To understand the impact of climate change on health
+• To develop a Climate Resilience Heat Action Plan for selected
+blocks of Rajasthan
+• To build capacity and generate awareness among healthcare
+professionals
+• To generate awareness of heat-related illness prevention and
+management among students and teachers.
+Various innovative approaches were used, such as organising a Heat
+Awareness Day and a Mass Awareness Rally; harnessing the potential
+of children in community awareness; capacity building of frontline
+health workers and medical officers; and comprehensive Information,
+Education and Communication (IEC) material made available in
+local languages. All these activities helped to mainstream climate
+change within the public health system. The state government then
+scaled up activities in districts.
+P R I Y A D U T T A E T A L .114
+• There has been an increasing trend of heat waves in India over the past
+several years.
+• Extreme heat can lead to dangerous, even deadly, health consequences,
+including heat stress and heatstroke.
+• Public health interventions are urgently required to reduce mortality
+and morbidity due to extreme heat events.
+• The city of Ahmedabad implemented South Asia’s first Heat Action
+Plan based on an early warning system.
+• The experience in Ahmedabad provides compelling evidence that heat
+action plans can meaningfully reduce vulnerability to extreme heat and
+save lives.
+References
+Azhar, G. S., Mavalankar, D., Nori-Sarma, A., et al., (2014). Heat-related mortality
+in India: Excess all-cause mortality associated with the 2010 Ahmedabad heat
+wave. PLoS One 9(3), e91831.
+Benmarhnia, T., Schwarz, L., Nori-Sarma, A., & Bell, M. L. (2019). Quantifying the
+impact of changing the threshold of New York City heat emergency plan in reduc-
+ing heat-related illnesses. Environmental Research Letters, 14(11), 114006.
+D’Ippoliti, D., Michelozzi, P., Marino, C., de’ Donato, F., Menne, B., Katsouyanni, K.,
+… & Perucci, C. A. (2010). The impact of heat waves on mortality in 9 European
+cities: Results from the EuroHEAT project. Environmental Health, 9, 37. doi:
+10.1186/1476-069X-9-37
+Gasparrini, A., Guo, Y., Sera, F., Vicedo-Cabrera, A. M., Huber, V., Tong, S., … &
+Armstrong, B. (2017). Projections of temperature-related excess mortality under
+climate change scenarios. The Lancet Planetary Health, 1(9), e360–e367.
+Hess, J. J., Lm, S., Knowlton, K., Saha, S., Dutta, P., Ganguly, P., … & Mavalankar,
+D. (2018). Building resilience to climate change: Pilot evaluation of the impact of
+India’s first heat action plan on all-cause mortality. Journal of Environmental
+Public Health, 7973519. doi: 10.1155/2018/7973519
+Jaswal, A., Padmakumari, B., Kumar, N., & Kore, P. A. (2017). Increasing trend in
+temperature and moisture induced heat index and its effect on human health in
+climate change scenario over the Indian sub-continent. Journal of Climate Change,
+3(1), 11–25.
+Knowlton, K., Kulkarni, S. P., Azhar, G. S., Mavalankar, D., Jaiswal, A., Connolly,
+M., … & Hess, J. J. (2014). Development and implementation of South Asia’s first
+heat-health action plan in Ahmedabad (Gujarat, India). International Journal of
+Environment Research and Public Health, 11(4), 3473–3492. doi: 10.3390/
+ijerph110403473
+Maughan, R. J. (2012). Hydration, morbidity, and mortality in vulnerable popula-
+tions. Nutrition Reviews, 70 2, S152–S155. doi: 10.1111/j.1753-4887.2012.
+00531
+National Disaster Management Authority, Ministry of Home Affairs, Government
+of India. (2019). National guidelines for preparation of action plan-prevention
+and management of heat wave. https://ndma.gov.in/images/guidelines/heatwave-
+guidelines.pdf
+T H E S T A T U S O F H E A T H E A L T H I N I N D I A115
+Nori- Sarma, A., Anderson, G. B., Rajiva, A. et al. (2019). The impact of heat waves
+on mortality in Northwest India. Environmental Research, 176, 108546.
+Robinson, P. J. (2001). On the definition of a heat wave. Journal of Applied
+Meteorology, 40(4), 762–775. doi: 10.1175/1520-0450(2001)040<0762:OTDO
+AH>2.0.CO;2
+Singh, N., Singh, S., & Mall, R. K. (2020). Urban ecology and human health:
+Implications of urban heat island, air pollution and climate change nexus. In
+Urban Ecology (317–334). Elsevier.
+Tollefson, J. (2018). IPCC says limiting global warming to 1.5°C will require drastic
+action. Nature, 562(7726), 172–173. doi: 10.1038/d41586-018-06876-2
+Vellingiri, S., Dutta, P., Singh, S., Sathish, L. M., Pingle, S., & Brahmbhatt, B. (2020).
+Combating climate change-induced heat stress: Assessing cool roofs and its
+impact on the indoor ambient temperature of the households in the Urban Slums
+of Ahmedabad. Indian Journal of Occupational and Environmental Medicine,
+24(1), 25–29. doi: 10.4103/ijoem.IJOEM_120_19
+
+
+---
+
+6. Time trends in the impact attributable to cold days in Spain: Incidence of local factors
+
+Abstract
+Background
+While numerous studies have shown that the impact of cold waves is decreasing as result of various processes of adaptation, far fewer have analysed the time trend shown by such impact, and still fewer have done so for the different provinces of a single country, moreover using a specific cold waves definition for each. This study thus aimed to analyse the time trend of the impact of cold days on daily mortality in Spain across the period 1983–2003.
+Methods
+For study purposes, we used daily mortality data for all natural causes except accidents in ten Spanish provinces. The time series was divided into three subperiods. For each period and province, the value of Tthreshold was obtained via the percentile corresponding to the cold day's definition for that province obtained in previous studies. Relative Risks (RRs) and Population Attributable Fraction (PARs) were calculated using Generalised Linear Models (GLMs) with the Poisson regression link. Seasonalities, trends and autoregressive components were controlled. Global RRs and ARs were calculated with the aid of a meta-analysis with random effects for each of the periods.
+Results
+The results show that the RRs for Spain as a whole were 1.12 (95% CI: 1.08 1.16) for the first period, 1.15 (95% CI: 1.09 1.22) for the second and 1.18 (95% CI: 1.10 1.26) for the third. The impact of cold days has risen slightly over time, though the differences were not statistically significant. These findings show a clearly different behaviour pattern to that previously found for heat.
+Conclusion
+The results obtained in this study do not show a downward trend for colds days. The complexity of the biological mechanisms involved in cold-related mortality and the lack of robust results mean that more research must be done in this particular field of public health.
+
+---
+
+7. Chapter 1
+Introduction: Climate Risks
+in the Health Sector
+Abstract This chapter details the structure of the book, and introduces relevant
+terminology and concepts used in it. The first section describes the scope of the
+book while the second section presents the conceptual framing in terms of risks to
+the health sector and adaptation for managing the risks from climate change. It
+presents the current evidence on climate change and projected risks for the health
+sector, the association between different climate drivers and prevalence of selected
+diseases, and concerns of exposure and vulnerability across regions of the world.
+
+Here is a succinct high-level summary of Chapter 1: **Introduction: Climate Risks in the Health Sector**, focusing on the context of developing economies, specifically India.
+
+**Core Thesis**
+The chapter argues that for developing economies like India, climate change poses risks that have "far reaching consequences for human health," primarily acting as a "multiplier" of current vulnerabilities. The text asserts that "until mid Century, climate change is expected to act mainly by exacerbating health problems that already exist."
+
+**Key Risks and Regional Evidence**
+The text relies on IPCC AR5 data to categorize risks by region:
+*   **Asia:** The primary risks are "mortality from heat and floods, injuries and infectious diseases due to floods, increases in water and vector-borne diseases, and malnutrition."
+*   **Vector-Borne Diseases:** There is "high confidence" regarding the link between climate and disease.
+    *   **Dengue:** Currently affects up to 100 countries with "50 million cases being reported per year."
+    *   **Malaria:** By 2030, "an estimated 3.6 billion people are at risk of malaria, of which a 100 million is attributable to climate change." In Africa, cases may increase by "5–7 % among at risk populations at higher altitudes."
+*   **Mortality Projections:** Citing WHO estimates, the text notes that "an additional 250,000 deaths annually between 2030 and 2050, could occur due to some well understood impacts of climate change."
+    *   Breakdown by 2030: "48,000 additional deaths due to diarrhoeal illness among children... 60,000 deaths due to Malaria, another 38,000 deaths due to heat exposure among the elderly."
+
+**Challenges in Policy and Adaptation**
+The chapter highlights a significant "adaptation deficit" in developing nations:
+*   **Current Status:** "Integrating climate risks within mainstream health planning and policy is virtually absent in most developing countries."
+*   **The Indian Context:** "In India so far, there has been scant attention to these concerns," particularly regarding the "detection and attribution of health effects from climate change."
+*   **Strategic Requirement:** Effective adaptation requires a dual approach: "responding to an amplification of existing threats to public health" while simultaneously developing "new management strategies in response to distinctly new threats."
+
+**Conclusion**
+Building resilience requires "accelerating public health and medical interventions to reduce the present burden of disease" as the "single most important step." The text warns that without economic decision-making supporting these strategies, "risks for heat mortality reach very high levels even under 2 °C warming in the long term." 
+
+

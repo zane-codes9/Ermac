@@ -1,0 +1,557 @@
+"emergency department crowding" OR "hospital capacity" OR "ambulance diversion" AND "heat wave" AND ("mortality" OR "death rate")
+
+1. Heatwaves and Emergency Departments in Italy
+
+EXECUTIVE SUMMARY (ENGLISH)
+Due to global warming and climate change, periods of unusual heat called heatwaves are increasing
+in frequency and intensity. Heatwaves pose an important risk for population health and are associated
+with an increased demand for emergency care. This overload on prehospital emergency medicine
+(PHEM) and emergency departments (EDs) during heatwaves has been retrospectively confirmed,
+but evidence on how to mitigate this effect still needs to be provided. This PhD project aimed at
+finding the factors causing PHEM and ED overload during heatwaves using qualitative methods.
+First, an online Delphi study included 15 experts in emergency medicine, disaster medicine, or public
+health. Thirty-one statements were obtained after content analysis. The experts agreed on 18 state-
+ments, mostly focusing on the input section of patient processing and identifying stakeholders, the
+population, and primary care as targets of potential interventions. Additional dedicated resources and
+bed capacity were deemed important as per throughput and output sections, respectively. Since the
+results of the Delphi study mainly dealt with the ED, a multicentric study using semi-structured in-
+terviews was performed to shed light on PHEM systems. Thirteen PHEM doctors and nurses working
+in Veneto region, Northern Italy, were interviewed. After content analysis, their perspectives
+were categorized into four themes: perception of heatwaves; clinical impact of heatwaves; social fac-
+tors and heatwaves; heatwaves and emergency medical service (EMS). According to the interview-
+ees, the strain on EMS during heatwaves may be partially reduced by interventions targeting vulner-
+able populations, primary care, social networks, and education and information. Specific actions
+could follow the surge science principles of staff, stuff, structure, and system to help policymakers
+improve EMS surge capacity planning, preparedness, and response against heatwaves.
+Overall, these findings could be used in the future to implement heat-health action plans and test
+solutions to increase emergency healthcare resilience during heatwaves, reduce dysfunction due to
+overload, and mitigate disaster risk due to climatic change.
+
+This document is a **Doctoral Thesis** titled **"Heatwaves and Emergency Departments in Italy (HEAT-ED IT): Strategies to identify determinants of overload and mitigate impact"** authored by **Matteo Paganini**. It was submitted in **November 2024** to the **Università del Piemonte Orientale (UPO)** and **Vrije Universiteit Brussel (VUB)** as part of the "International Doctoral Program in Global Health, Humanitarian Aid and Disaster Medicine."
+
+The following is a verbatim overview of the document’s contents, findings, and structure.
+
+### **Problem Statement and Context**
+*   **Global Warming:** The introduction asserts that "Global warming is a demonstrated phenomenon resulting in atmospheric and oceanic average temperatures rise" and describes it as "the biggest global health threat of the 21st century."
+*   **Extreme Weather Events (EWEs):** The thesis notes that "EWEs accounts for 90% of all the disasters in the last 20 years and, more importantly, their frequency has increased by 46% from 2007 to 2016."
+*   **Impact on Healthcare:** "Heatwaves impact all health systems’ components by worsening population morbidity, interfering with essential infrastructure, or introducing collateral incidents." Specifically, "heat event days occurring each summer in USA are estimated to result in about 234,000 ED visits."
+*   **Research Gap:** A scoping review conducted by the author found that "none of the retrieved full-texts analyzed or at least summarized the factors predisposing to emergency medical care overload during heatwaves."
+
+### **Methodology**
+The project employed two primary qualitative research techniques:
+1.  **Delphi Study (Chapter 3):** An "expert opinion study" aimed at identifying factors causing emergency care overload.
+    *   **Participants:** "15 experts... from Australia (n=4), Belgium (n=3), and Italy (n=2)" with expertise in "emergency medicine; disaster medicine; or public health."
+    *   **Process:** Three rounds of surveys to reach consensus on statements regarding overload factors.
+2.  **Semi-Structured Interviews (Chapter 4):** A multicentric qualitative study involving Prehospital Emergency Medicine (PHEM) personnel.
+    *   **Setting:** The **Veneto Region** in Northeastern Italy.
+    *   **Participants:** "13 (7 nurses and 7 doctors [sic]... final number of included to 13)" recruited from the Regional EMS network.
+    *   **Objective:** To identify "vulnerability factors predisposing EMS to overload or dysfunction during heatwaves."
+
+### **Key Findings**
+
+**From the Delphi Study (18 Consensus Statements):**
+The experts agreed on statements categorized by the **Input-Throughput-Output** model:
+*   **Input:** "Availability of air conditioning at home or access to cooled spaces can reduce heat-related illnesses" (Mean score: 6.3/7). "Information campaigns about Heatwaves can help increase community awareness" (Mean score: 6.2/7).
+*   **Throughput:** "Emergency planning and surge capacity development are important to prevent emergency medical care overload" (Mean score: 6.0/7). "Training of healthcare personnel... could improve heat-related illness diagnosis and treatment."
+*   **Output:** "The reduction of hospital bed capacity during summer can worsen emergency medical care overload during heatwaves."
+
+**From the Qualitative Interviews (PHEM Perspective):**
+Interviewees identified four main themes:
+1.  **Perception of Heatwaves:** Defined primarily by "High temperatures" and "Humidity."
+2.  **Clinical Impact:** Concerns focused on "vulnerable/frail groups" (children, elderly, homeless). Conditions included "Acute on chronic illness," "Syncope," and behavioral changes like "More aggressive behaviors."
+3.  **Social Factors:** "Lack of behavioral adaptations," "Air conditioning not installed or not working due to economic concerns," and "Lack or failure of family support."
+4.  **Heatwaves and EMS:**
+    *   **Staff:** Concerns for safety ("under the sun"), fatigue, and "Need for more personnel."
+    *   **Stuff:** "Need for more equipment" including ice, fluids, and vehicle climatization.
+    *   **System:** "Inadequate availability of general practitioners" and a need for "Strengthening primary care."
+
+### **Recommendations (Chapter 5)**
+The thesis synthesizes findings into specific recommendations for policymakers and healthcare systems, structured by the patient flow framework:
+
+*   **Input:**
+    *   "Tailored awareness campaigns."
+    *   "Develop telemedicine dedicated to the frail strata of the population (e.g., a telephone helpline for counseling)."
+    *   "Local authorities should consider postponing events coinciding with heatwaves."
+    *   Provide "economic incentives for air conditioning and against poor housing."
+
+*   **Throughput:**
+    *   "Integrate heat-health services into HHAPs [Heat-Health Action Plans]."
+    *   "Expand training, increase resources, and ensure staff support."
+    *   "Establish temporary triage centers and pre-designated cooling zones for critical cases."
+
+*   **Output:**
+    *   "Enhance hospital surge capacity and expedite discharge processes during heatwaves."
+    *   "Adapt hospital bed capacity when HHAPs are activated."
+
+### **Conclusion**
+The thesis concludes that while "emergency medical care suffers from an overload of patients... studies testing solutions... are lacking." The author states that "stakeholders and policymakers should improve HHAPs with actions raising the awareness of the population, supporting frailer strata with social interventions, and strengthening primary care." The findings are intended to "produce high-quality evidence and achieve the overarching aim of reducing the burden of climate change."
+
+---
+
+2-Factors causing emergency medical care
+overload during heatwaves: A Delphi study
+
+Abstract
+Heatwaves pose an important risk for population health and are associated with an increased
+demand for emergency care. To find factors causing such overload, an online Delphi study
+included 15 experts in emergency medicine, disaster medicine, or public health. One open-
+ended question was delivered in the first round. After content analysis, the obtained state-
+ments were sent to the experts in two rounds to be rated on a 7-point linear scale. Consensus
+was defined as a standard deviation �1.0. Thirty-one statements were obtained after content
+analysis. The experts agreed on 18 statements, mostly focusing on the input section of
+patient processing and identifying stakeholders, the population, and primary care as targets
+of potential interventions. Additional dedicated resources and bed capacity were deemed
+important as per throughput and output sections, respectively. These findings could be used
+in the future to implement and test solutions to increase emergency healthcare resilience dur-
+ing heatwaves and reduce disaster risk due to climatic change. 
+
+---
+
+3. Emergency medical care overload during heatwaves: a
+neglected topic
+
+Matteo Paganinia
+, Martina Valente a,b
+, Andrea Contia,c
+,
+Luca Ragazzoni a,b and Francesco Barone-Adesia,c
+European Journal of Emergency Medicine 2023, 30:5–6
+a CRIMEDIM—Center for Research and Training in Disaster Medicine,
+Humanitarian Aid and Global Health, Università del Piemonte Orientale, Novara,
+b
+Department of Sustainable Development and Ecological Transition, Università
+del Piemonte Orientale, Vercelli and c
+Department of Translational Medicine,
+Università del Piemonte Orientale, Novara, Italy
+Correspondence to Matteo Paganini, MD, International PhD in Global Health,
+Humanitarian Aid and Disaster Medicine, Center for Research and Training in
+Disaster Medicine, Humanitarian Aid and Global Health (CRIMEDIM), Università
+del Piemonte Orientale (UPO), Via Lanino, 1, 28100 Novara, Italy
+Tel: +39 032 166 0620; e-mail: matteo.paganini@uniupo.it
+Received 25 July 2022 Accepted 27 July 2022
+Climate change represents one of the most complex chal-
+lenges faced by humankind in recent history [1]. Due to
+its features – mainly the gradual onset and the wide range
+of effects across different regions – the awareness of pop-
+ulations and governments is low. Consequently, strate-
+gies to contain the rise in global average temperature are
+difficult to put into practice [2]. The most evident mani-
+festations of climate change are extreme weather events
+– such as droughts, floods, or periods of extreme temper-
+atures – whose trend in frequency and intensity is pro-
+gressively increasing [3]. Although the mitigation of the
+impacts of such hazards should be among the priorities of
+governments, strategies to limit global warming and pol-
+icies to improve preparedness toward extreme weather
+events are scarcely reported in the literature [4].
+Among extreme weather events, heatwaves represent
+one of the most common extreme temperature events;
+however, no universally accepted definition has been
+currently established. These complex phenomena are
+complicated to study and compare with each other, due
+to differences in features and locations. Nevertheless,
+current literature suggests a relationship between heat-
+waves and mortality, morbidity, or the burden posed on
+healthcare systems and their components. However, the
+lack of high-quality evidence hampers the development
+of evidence-based mitigation strategies [4].
+In the specific case of emergency medical care, increased
+presentations and usage rates have been consistently
+described during heatwaves in emergency departments
+(EDs) and emergency medical services (EMSs). Several
+retrospective analyses confirmed an overall increase in ED
+accesses during heatwaves in different countries, ranging
+from 2% [5,6] to 19% [7] for all-cause presentations. Calkins
+et al. [8] also identified an 8 and 14% rise in EMS dispatch
+during heatwaves for basic life support and advanced life
+support ambulances, respectively. These results are con-
+sistent with other studies that reported an overall increase
+in ambulance dispatch of 4% [5] and 14% [6].
+However, it is still unclear if these heatwave-related
+increases in ED presentations and EMS usage rates could
+affect ED system performances and result in hospital care
+dysfunction. Toloo et al. [9] detected an increased input
+due to heat-related illness in 11 EDs from the greater
+Brisbane area (Australia) during the period 2000–2012;
+among the secondary outcomes, a longer stay in the ED
+for these patients was detected. Higher in-ED [10] and
+inhospital [7] mortality rates have also been measured
+during heatwaves. Even though the specific association
+with ED overload was not investigated, it is reasonable to
+think that higher volumes of patients, along with emer-
+gency medical care and hospital systems’ maladaptation
+leading to bottlenecks in patient processing, might have
+contributed to these negatively measured outcomes.
+Knowing the magnitude of emergency medical care over-
+load due to heatwaves, a step toward better care should be
+achieved by investigating and then implementing inter-
+ventions targeting its specific predisposing factors. The
+authors performed a scoping review to include any study
+dealing with emergency medical care (EDs and EMSs)
+and heatwaves and identify these vulnerability factors,
+but none of the records analyzed the possible causes of
+emergency medical care overload during heatwaves. In
+our opinion, this relevant gap in the literature is the epi-
+phenomenon of a not-in-depth studied field.
+Since the workflow in emergency medicine is not exclu-
+sively focused on a single patient, but also considers groups
+of patients, processes, and systems at the same time with
+a peculiar public health perspective [11], the constant
+monitoring of operational efficiency of the whole system
+– prehospital and inhospital – is crucial. The above-de-
+scribed heatwave-related overload of emergency medical
+care presents several overlapping features with a phe-
+nomenon called ‘ED overcrowding’, a global health issue
+leading to a considerable worsening in patient outcomes
+and clinical risk [12]. As such, methods commonly used
+to evaluate the factors predisposing to ED overcrowding
+could be used to identify factors causing heatwave-re-
+lated overload. Kelen et al. [12] recently conducted a root
+cause analysis of ED overcrowding, highlighting that
+the traditional input-throughput-output model used for
+Copyright © 2022 Wolters Kluwer Health, Inc. Unauthorized reproduction of this article is prohibited.
+6 European Journal of Emergency Medicine 2023, Vol 30 No 1
+patient processing analysis can be helpful but not exhaus-
+tive and, therefore, addressed healthcare systems’ eco-
+nomic aspects previously neglected. The authors present
+a granular analysis of prehospital-, ED-, and hospital-re-
+lated factors causing ED overcrowding and recommend
+several possible solutions based on public health and dis-
+aster medicine principles [13]. In the same vein, during a
+heatwave, processes aiming to improve factors internal to
+EDs and EMSs but also targeting primary and inhospital
+care could reduce the overload for emergency medical
+care. For example, a tailored information service availa-
+ble to the vulnerable populations, early warning systems
+triggering the recruitment of extra personnel, or a spe-
+cifically activated hospital-based unit reducing boarding
+dysfunction could constitute effective interventions that
+can mitigate the impact of heatwaves on EDs. Surveys
+can be another valuable tool to investigate the factors
+underlying ED overcrowding [14]. For example, Bond et
+al. tried to increase knowledge about factors determining
+ED overcrowding by interviewing a sample of Canadian
+ED directors. Space constraints, boarding delays, and
+the increasing complexity of cases were identified as
+the leading causes of ED overcrowding [15]. By repro-
+ducing similar studies, researchers could find the targets
+of future interventions to mitigate emergency medical
+care overload during heatwaves. Also, the lessons learned
+during the COVID-19 pandemic could be investigated
+in light of heatwave-related surges. As EDs and EMSs
+implemented strategies to dynamically repurpose patient
+processing protocols, adapt spaces, relocate resources,
+and deploy personnel based on COVID-19 contagion
+curves, early warning systems and syndromic surveillance
+could guide changes in assets allocation before, during,
+and after heatwaves [16].
+In conclusion, the lack of scientific literature addressing
+the factors predisposing emergency medical care to over-
+load during heatwaves currently hampers any effective
+planning strategy. Therefore, the authors encourage the
+empowerment of research in this field. Taking inspira-
+tion from the existing ED overcrowding literature and
+consulting the opinions of relevant experts in this field,
+scholars will then be able to design and implement effec-
+tive interventions to mitigate emergency medical care
+overload during heatwaves
+
+---
+
+4. Heatwaves Impact on Prehospital Emergency Medicine: A Qualitative Study to Improve Sustainability and Disaster
+Preparedness in Veneto Region, Northern Italy
+Matteo Paganini 1,2,* , Nikolaos Markou-Pappas 1,2 , Francesco Della Corte 1,2 , Paolo Rosi 3, Giulio Trillò 4
+,
+Marialuisa Ferramosca 5, Andrea Paoli 6 , Federico Politi 7, Adriano Valerio 8, Andrea Favaro 9, Ives Hubloue 10
+Luca Ragazzoni 1,11 , Francesco Barone-Adesi 1,2 and Hamdi Lamine 1,12
+,
+Citation: Paganini, M.;
+Markou-Pappas, N.; Della Corte, F.;
+Rosi, P.; Trillò, G.; Ferramosca, M.;
+Paoli, A.; Politi, F.; Valerio, A.;
+Favaro, A.; et al. Heatwaves Impact
+on Prehospital Emergency Medicine:
+A Qualitative Study to Improve
+Sustainability and Disaster
+Preparedness in Veneto Region,
+Northern Italy. Sustainability 2024, 16,
+6911. https://doi.org/10.3390/
+su16166911
+Academic Editor: Krzysztof
+Goniewicz
+Received: 9 July 2024
+Revised: 31 July 2024
+Accepted: 2 August 2024
+Published: 12 August 2024
+1 CRIMEDIM—Center for Research and Training in Disaster Medicine, Humanitarian Aid and Global Health,
+Università del Piemonte Orientale, 28100 Novara, Italy
+2 Department of Translational Medicine, Università del Piemonte Orientale, 28100 Novara, Italy
+3 Centrale Operativa SUEM 118, Azienda ULSS 3 Serenissima, 30174 Mestre-Venezia, Italy
+4 Centrale Operativa SUEM 118, Azienda ULSS 1 Dolomiti, 32044 Pieve di Cadore, Italy
+5 Centrale Operativa SUEM 118, Azienda ULSS 2 Marca Trevigiana, 31100 Treviso, Italy
+6 Centrale Operativa SUEM 118, Azienda ULSS 5 Polesana, 45100 Rovigo, Italy
+7 Centrale Operativa SUEM 118, Azienda ULSS 8 Berica, 36100 Vicenza, Italy
+8 Centrale Operativa SUEM 118, Azienda Ospedaliera Universitaria Integrata di Verona, 37134 Verona, Italy
+9 Emergency Department and Emergency Medical Service, “San Bassiano” Hospital, Azienda ULSS 7
+Pedemontana, 36061 Bassano del Grappa, Italy
+10 ReGEDiM—Research Group on Emergency Disaster Medicine, Vrije Universiteit Brussel (VUB),
+1050 Brussels, Belgium
+11 Department for Sustainable Development and Ecological Transition, Università del Piemonte Orientale,
+13100 Vercelli, Italy
+12 Department of Community Health Nursing, College of Nursing, University of Hail, Hail 55476, Saudi Arabia
+* Correspondence: matteo.paganini@uniupo.it
+Abstract: Heatwaves are periods of unusual heat, whose frequency and intensity is increasing. Heat-
+waves also translate into emergency healthcare dysfunctions, but evidence on how to mitigate these
+effects still needs to be provided. This multicentric study aimed to identify the interactions between
+heatwaves and prehospital emergency medicine (PHEM). After obtaining informed consent, PHEM
+personnel working full-time in different districts of the Veneto Region, Northern Italy, were recruited.
+Their perspective was captured through semi-structured interviews and analyzed using content
+analysis methodology. Thirteen subjects participated in the study. Their insights were categorized
+into four themes: perception of heatwaves; clinical impact of heatwaves; social factors and heatwaves;
+heatwaves and emergency medical service (EMS). According to the interviewees, the strain on EMSs
+during heatwaves may be partially reduced by interventions targeting vulnerable populations, pri-
+mary care, social networks, and education and information. Specific public health actions could
+follow the surge science principles of staff, stuff, structure, and system to help policymakers improve
+EMS surge capacity planning, preparedness, and responses. The present study also identified PHEM
+vulnerabilities and targets of interventions to implement heat–health action plans, mitigate the risk of
+prehospital emergency care dysfunction, and improve EMS sustainability and preparedness against
+heatwaves and the changing climate.
+Keywords: heatwave; climate change; emergency medicine; emergency medical service; public
+health; sustainability
+
+5. Impacts of the 2021 heat dome on emergency department
+visits, hospitalizations, and health system operations in three
+hospitals in Seattle, Washington
+
+Impacts of the 2021 heat dome on emergency department
+visits, hospitalizations, and health system operations in three
+hospitals in Seattle, Washington
+Zachary S. Wettstein MD, MS1,2 Jane Hall PhD1 Cameron Buck MD1
+Steven H. Mitchell MD1,3 Jeremy J. Hess MD, MPH1,2
+1 Department of Emergency Medicine,
+University of Washington School of Medicine,
+Seattle, Washington, USA
+2 Center for Health and the Global
+Environment, University of Washington School
+of Public Health, Seattle, Washington, USA
+3 Washington Medical Coordination Center,
+Seattle, Washington, USA
+Correspondence
+Zachary S. Wettstein, MD, MS, Department of
+Emergency Medicine, University of
+Washington School of Medicine, Seattle, WA,
+USA.
+Email: zwett@uw.edu
+Abstract
+Objectives: Extreme heat events (EHEs) are associated with excess healthcare utiliza-
+tion but specific impacts on emergency department (ED) operations and throughput
+are unknown. In 2021, the Pacific Northwest experienced an unprecedented heat
+dome that resulted in substantial regional morbidity and mortality. The aim of this
+study was to examine its impact on ED utilization, unplanned hospitalization, and
+hospital operations in a large academic healthcare system.
+Methods: Retrospective electronic medical records from three Seattle-area hospitals
+were used to compare healthcare utilization during the EHE compared to a pre-event
+reference period within the same month. Interrupted time series analysis was used
+to evaluate the association between EHE exposure and ED visits and hospitalizations.
+Metrics of ED crowding for the EHE were compared to the reference period using Stu-
+dent’s t-tests and chi-squared tests. Additionally, multivariable Poisson regression was
+used to identify risk factors for heat-related illness and hospital admission.
+Results: Interrupted time series analysis showed an increase of 21.7 ED visits per day
+(95% confidence interval [CI] = 14.7, 28.6) and 9.9 unplanned hospitalizations per day
+(95% CI = 8.3, 11.5) during the EHE, as compared to the reference period. ED crowding
+and process measures also displayed significant increases, becoming the most pro-
+nounced by day 3 of the EHE; the EHE was associated with delays in ED length of stay
+of 1.0 h (95% CI = 0.4, 1.6) compared to the reference period. Higher incidence rate
+ratios for heat-related illness were observed for patients who were older (incidence
+rate ratio [IRR] = 1.02; 95% CI = 1.01,1.03), female (IRR = 1.47; 95% CI = 1.06, 2.04),
+or who had pre-existing diabetes (IRR = 3.19; 95% CI = 1.47, 6.94).
+Conclusions: The 2021 heat dome was associated with a significant increase in health-
+care utilization including ED visits and unplanned hospitalizations. Substantial impacts
+on ED and hospital throughput were also noted. These findings contribute to the
+This is an open access article under the terms of the Creative Commons Attribution-NonCommercial-NoDerivs License, which permits use and distribution in any
+medium, provided the original work is properly cited, the use is non-commercial and no modifications or adaptations are made.
+© 2024 The Authors. JACEP Open published by Wiley Periodicals LLC on behalf of American College of Emergency Physicians.
+JACEP Open 2024;5:e13098. wileyonlinelibrary.com/journal/emp2 1 of 10
+https://doi.org/10.1002/emp2.13098
+2 of 10 WETTSTEIN ET AL .
+understanding of the role extreme heat events play on impacting patient outcomes and
+healthcare system function.
+K E Y W O R D S
+climate change, disaster, heat, heat wave, operations 
+
+---
+
+6-Killer Alerts? Public Health Warnings and
+Heat Stroke in Japan
+
+ABSTRACT
+IZA DP No. 16562 OCTOBER 2023Killer Alerts? Public Health Warnings and
+Heat Stroke in Japan*
+In 2020, Japan introduced a comprehensive heat-health warning system where daily alerts
+were issued by region when forecasted wet bulb globe temperature (WBGT) exceeded
+a threshold (33 °C). Utilizing plausibly exogenous region-day variation in the difference
+between actual and forecasted WBGT (i.e. forecasting errors), we find that the alerts led
+to a large and precisely estimated increase in heat stroke counts. Paired with data from
+Google Trends, Google Mobility Reports, and the population of ambulance records, we
+identify potential mechanisms, including increased reporting of heat stroke cases and
+“adverse” behavioral responses (e.g. people spending more time outdoors) when alerts
+were issued, while ruling out potential substitution in health diagnoses away from other
+sudden illnesses.
+JEL Classification: D90, I12, I18, Q54
+Keywords: heat stroke, climate change, warning effectiveness, avoidance
+behavior
+Corresponding author:
+Lester Lusher
+University of Pittsburgh
+Department of Economics
+Pittsburgh
+230 South Bouquet Street
+PA 15260
+USA
+E-mail: lesterlusher@pitt.e
+
+**Document Type:** Discussion Paper (IZA DP No. 16562)
+**Title:** "Killer Alerts? Public Health Warnings and Heat Stroke in Japan"
+**Authors:** Lester Lusher (University of Pittsburgh and IZA) and Tim Ruberg (University of Hohenheim)
+**Date:** October 2023
+
+**Core Study & Context**
+The paper investigates the "causal impacts" of a "comprehensive heat-health warning system" introduced in Japan in 2020.
+*   **The Policy:** Daily alerts were issued by region when "forecasted wet bulb globe temperature (WBGT) exceeded a threshold (33°C)." Alerts are communicated via the "Ministry of Environment’s homepage, weather news broadcasting stations, radio, public institutions, social networking services... and smartphone applications."
+*   **The Objective:** The alerts encourage citizens to "stay at home, drink a lot, take salt, avoid exercise, use air-conditioning, and report to others if they are in poor physical condition."
+
+**Data Sources**
+*   **Heat Stroke Data:** Administrative data from the Fire and Disaster Management Agency (FDMA) on "the number of heat strokes by age group, place of incidence, and severity, for each of 47 prefectures on a daily basis" from 2017 to 2022.
+*   **Weather Data:** "Forecasted and actual WBGT" data from the Japan Meteorological Agency (JMA) across 1,300 weather stations.
+*   **Behavioral Data:** "Google Trends and Google Community Mobility Reports, which tracked daily foot traffic across locations."
+*   **Ambulance Records:** Micro-data from the "population of ambulance records in Japan."
+
+**Empirical Strategy**
+The authors utilize "plausibly exogenous region-day variation in the difference between actual and forecasted WBGT (i.e. forecasting errors)."
+*   The model compares "region-days where an alert was issued but the actual WBGT was below 33.0°C (i.e. a false positive) and region-dates where an alert was not issued but the actual WBGT exceeded 33.0°C (i.e. a false negative)."
+*   The primary sample consists of "20,612 observations," restricted to days with a WBGT of at least 28°C.
+
+**Key Findings**
+The study finds that the alerts led to a "large and precisely estimated increase in heat stroke counts."
+*   **Increase in Cases:** "A heat-health warning increases the incidence of heat stroke hospitalizations by nearly 17%."
+*   **Severity:** Effects exist across the spectrum, including "severe cases which require multiple weeks of hospitalization."
+*   **Demographics:** "The largest increase in heat stroke incidence is experienced by adults and the elderly in particular."
+*   **Mortality:** The authors "estimate a small but statistically insignificant increase in overall mortality."
+
+**Mechanisms and Behavioral Responses**
+The paper identifies potential mechanisms for the "seemingly counter-intuitive results" using Google data and ambulance records:
+
+*   **Increased Reporting:** The alerts may have "raised general awareness," leading to an "increased reporting" effect where people report "what were otherwise unidentified cases of heat stroke."
+*   **Adverse Behavior (Leaving Home):**
+    *   Google Mobility Reports show that "people were *more* likely to leave their home on alert days."
+    *   This behavior "stands in direct contrast to the government guideline to stay home and use air conditioner."
+    *   There was a "large increase in visitations to parks" and increased Google searches for "outdoor activities such as 'sea bathing' and 'park'."
+*   **No Substitution Effect:** Analysis of ambulance data for other sudden illnesses (e.g., traffic accidents, natural disasters) shows "statistically insignificant effects," ruling out the possibility that heat stroke diagnoses were simply being "substituted" from other illnesses.
+*   **Energy Consumption:** The study finds a "weak overall increase in energy consumption of 3%" on alert days, likely due to air conditioning, but posits that households might also be "saving energy on (what households perceive to be) especially hot days" due to price sensitivity.
+
+**Conclusion**
+*   "We document substantial variation, with no manipulation, in whether an alert was issued for a region-day."
+*   "Our findings suggest an increase in hospitalizations for heat stroke in response to a heat alert being issued."
+*   "We do not find any clear evidence for avoidance behavior except for an increase in the search term 'air conditioner'."
+*   Instead of staying indoors, "people were *more* likely to leave their home residence on heat alert days in favor of visiting both indoor and outdoor locations (i.e. parks)." 
+
+---
+
+7-Climate Change and Emergency Medicine
+
+Climate Change and Emergency Medicine:
+Impacts and Opportunities
+Jeremy J. Hess, MD, MPH, Katherine L. Heilpern, MD, Timothy E. Davis, MD, MPH, and
+Howard Frumkin, MD, DrPH
+Abstract
+There is scientific consensus that the climate is changing, that human activity plays a major role, and
+that the changes will continue through this century. Expert consensus holds that significant health
+effects are very likely. Public health and health care systems must understand these impacts to properly
+pursue preparedness and prevention activities. All of medicine will very likely be affected, and certain
+medical specialties are likely to be more significantly burdened based on their clinical activity, ease of
+public access, public health roles, and energy use profiles. These specialties have been called on to con-
+sider the likely impacts on their patients and practice and to prepare their practitioners. Emergency
+medicine (EM), with its focus on urgent and emergent ambulatory care, role as a safety-net provider,
+urban concentration, and broad-based clinical mission, will very likely experience a significant rise in
+demand for its services over and above current annual increases. Clinically, EM will see amplification of
+weather-related disease patterns and shifts in disease distribution. In EM’s prehospital care and disaster
+response activities, both emergency medical services (EMS) activity and disaster medical assistance team
+(DMAT) deployment activities will likely increase. EM’s public health roles, including disaster prepared-
+ness, emergency department (ED)-based surveillance, and safety-net care, are likely to face increasing
+demands, along with pressures to improve fuel efficiency and reduce greenhouse gas emissions. Finally,
+EM’s roles in ED and hospital management, particularly related to building and purchasing, are likely to
+be impacted by efforts to reduce greenhouse gas emissions and enhance energy efficiency. Climate
+change thus presents multiple clinical and public health challenges to EM, but also creates numerous
+opportunities for research, education, and leadership on an emerging health issue of global scope.
+ACADEMIC EMERGENCY MEDICINE 2009; 16:782–794 ª 2009 by the Society for Academic Emergency
+Medicine
+Keywords: emergency medicine, emergency services, hospital, emergency medical services,
+disaster planning, climate, weather, greenhouse effect, health policy 
+
+---
+
+8-Exploration with Process Mining on How Temperature Change Affects Hospital Emergency Departments
+
+Abstract
+
+The way patients are treated in Hospital Emergency Departments changes during the year, depending on many factors. One key component is weather temperature. Some seasonal maladies are tightly related to temperature, such as flu in cold weather or sunburn in hot weather. In this study, data from a hospital in Valencia was used to explore how harsh weather changes affect the emergency department, obtaining information about probable impacts of global warming effects in healthcare systems. Process mining techniques helped in the discovery of changes in the Emergency Departments. Some illnesses, such as heat stroke, are more prevalent during heatwaves, but more interestingly, the time to attend patients is also higher. Rapid changes in temperature are also analyzed through Process Mining techniques.
+
+9-Climate Adaptation in Out-of-Hospital Settings
+
+Climate Adaptation in Out-Of-Hospital Settings: Building Strategic Disaster
+Resilience in Ambulance Operations
+by
+BROOKS HOGYA
+A Dissertation Submitted to the College of Interdisciplinary Studies
+in Partial Fulfilment of the Requirements for the Degree of
+DOCTOR OF SOCIAL SCIENCES
+Royal Roads University
+Victoria, British Columbia, Canada 
+
+CLIMATE ADAPTATION IN OUT-OF-HOSPITAL SETTINGS 3
+Abstract
+The study contributes insights to the academic dialogue surrounding the resilience and
+practices of ambulance services, particularly in the context of escalating climate-related risks
+and overlapping disasters, such as pandemics. This study uses a pragmatic lens to highlight
+the implications for operational adjustments within the British Columbia Emergency Health
+Services (BCEHS) and comparable organizations. This research focus is a single BCEHS
+case study on the ambulance system’s resilience in the face of climate change-related
+disasters. The research focuses on operational capacity and organizational resilience in the
+context of climate disasters, such as wildfires, floods, heatwaves, and other health
+emergencies, such as pandemics. Key findings indicate challenges in organizational
+resilience, with staffing shortages emerging as the most-cited risk identified by 88.3% of
+respondents, highlighting vulnerabilities. The study applies the principles of high reliability
+organizations (HRO) and a complexity lens (i.e., wicked problems) and uses a mixed-
+methods approach involving interviews, a focus group, and a Likert-scale survey. The data
+were captured from disasters such as COVID-19, the 2021 British Columbia “heat dome”
+heatwave, and atmospheric river flooding in British Columbia in fall 2021 to explore and
+offer suggestions to improve situational awareness, disaster planning, and training and
+exercises, as well as developing strategies to include climate-related disaster risk in
+organizational planning and risk assessments. 
+
+---
+
+10-Clinical Implications of Climate Change on US
+Emergency Medicine: Challenges and
+Opportunities
+Cecilia J. Sorensen, MD*; Renee N. Salas, MD, MPH; Caitlin Rublee, MD, MPH; Kimberly Hill, MD; Emily S. Bartlett, MD, MS;
+Paul Charlton, MD; Chelsea Dyamond, MD; Callan Fockele, MD; Rachel Harper, MD; Sabiha Barot, MD;
+Emilie Calvello-Hynes, MD, MPH; Jeremy Hess, MD, MPH; Jay Lemery, MD
+*Corresponding Author. E-mail: Cecilia.Sorensen@cuanschutz.edu. E-mail: Cecilia.Sorensen@cuanschutz.edu.
+The adverse influences of climate change are manifesting as health burdens relevant to clinical practice, affecting the very
+underpinnings of health and stressing the health care system. Emergency medicine is likely to bear a large burden, with its focus on
+urgent and emergency care, through its role as a safety-net provider for vulnerable populations and as a leader in disaster medicine.
+Clinically, climate change is affecting emergency medicine practice through the amplification of climate-related disease patterns and
+epidemiologic shifts for conditions diagnosed and treated in emergency departments (EDs), especially for vulnerable populations. In
+addition, climate-driven intensification of extreme weather is disrupting health care delivery in EDs and health care systems. Thus,
+there are significant opportunities for emergency medicine to lead the medical response to climate change through 7 key areas:
+clinical practice improvements, building resilient EDs and health care systems, adaptation and public health engagement, disaster
+preparedness, mitigation, research, and education. In the face of this growing health threat, systemwide preparation rooted in local
+leadership and responsiveness is necessary to efficiently and effectively care for our vulnerable communities. [Ann Emerg Med.
+2020;76:168-178.]
+0196-0644/$-see front matter
+Copyright © 2020 by the American College of Emergency Physicians.
+https://doi.org/10.1016/j.annemergmed.2020.03.010
+
+---
+

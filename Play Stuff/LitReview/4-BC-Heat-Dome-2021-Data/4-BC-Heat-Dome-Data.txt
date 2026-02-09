@@ -1,0 +1,1180 @@
+1-THE CASE
+FOR ADAPTING
+TO EXTREME HEAT
+Costs of the 2021 B.C. heat wave
+
+Based on the document provided, here is a detailed overview of "The Case for Adapting to Extreme Heat: Costs of the 2021 B.C. Heat Wave" (June 2023), published by the Canadian Climate Institute.
+
+All text below consists of direct quotes, data points, and verbatim evidence found within the report.
+
+Executive Overview
+
+The Core Premise:
+"British Columbia’s June 2021 heat wave was the deadliest disaster in provincial history, and when the costs of the 619 lives lost from heat exposure are included, it was also one of the most costly."
+
+The Climate Reality:
+"Climate models indicate that sustained temperatures similar to the 2021 heat wave have a 10 per cent chance of reoccurring in B.C. within the next two decades." Furthermore, "climate change made the 2021 heat wave at least 150 times more likely to occur."
+
+The 2021 Event: Timeline and Statistics
+
+Between June 25 and June 30, B.C. experienced "sustained record temperatures."
+
+Lytton, B.C.: Set a "New Canadian record high" of 49.6°C.
+
+Abbotsford: Reached 42.9°C.
+
+Kamloops: Reached 47.9°C.
+
+911 Calls: "Nearly 12,000 911 calls are made in the province, a new daily record."
+
+Ambulance Service: "B.C. Emergency Health Services adds 14 dispatchers and opens up central Emergency Operations Centre."
+
+Sector 1: Human Health and Health Systems
+
+The Human Cost:
+
+"The BC Coroners Service linked 619 deaths directly to heat exposure."
+
+"Analysis shows that 98 per cent of deaths and hospital visits during the heat wave were due to extreme temperature exposure inside buildings."
+
+"Most deaths in long-term care facilities happened in the Fraser region."
+
+The Economic Cost of Life:
+"We estimate that avoiding these deaths has an economic value of $5.5 billion dollars when based on the Value of a Statistical Life (VSL)." Additionally, "healthcare costs attributed to the heat wave amounted to $12 million."
+
+Health System Failures:
+
+Emergency Rooms: "There were 530 excess hospitalizations across the province during the week of the heat wave."
+
+Delays: "In many cases ambulances waited hours with deceased patients for a coroner to come."
+
+Equipment Failure: "Chillers for MRI and CT equipment were not able to provide sufficient cooling. At one point, both CT scanners at Lions Gate Hospital in North Vancouver and the CT scanner at Whistler Hospital were inoperable as a result."
+
+Internal Temperatures: "At least two Lower Mainland and one Northern hospital recorded indoor temperatures of over 32° C in the emergency department, while an acute care floor at Lions Gate Hospital got as hot as 38° C."
+
+Future Projections (Without Adaptation):
+"Our modelling suggests that without action on adaptation there could be an average of 1,370 heat-related deaths per year by 2030."
+
+Sector 2: Workplace Safety and Productivity
+
+Injuries and Claims:
+
+"Heat-related workplace injuries requiring compensation increased by 180 per cent during the heat wave when compared to the previous three-year average."
+
+"Over a third of the heat stress claims in 2021 were from workers who primarily worked indoors (e.g., restaurant kitchens, warehouses)."
+
+Economic Impact:
+
+"Workers lost between $205 million and $328 million in income (based on an estimated 40 to 60 per cent reduction in hours worked during a four-day period)."
+
+"Ten out of twelve public school districts in the Lower Mainland closed on June 28."
+
+Future Projections:
+"By mid-century, we estimate that productivity impacts associated with reduced labour supply could range from one to nearly 5 per cent losses in projected GDP across the high-risk sectors modelled, totalling $122 million in GDP losses per year."
+
+Sector 3: Electricity and Transportation Systems
+
+Electricity Grid Stress:
+
+"BC Hydro set 19 all-time summer daily peak electricity demand records."
+
+"Over 400 transformers failed due to the high power load."
+
+"A power transmission cable that travels between mainland B.C. and Vancouver Island was damaged from heat exposure."
+
+Transportation Disruptions:
+
+Aviation: "BC Ambulance Service helicopters were unable to land at main hospitals across the Lower Mainland... because the hot air was too thin for them to safely hover and land."
+
+Roads: "Busy roads developed deep ruts when extreme heat softened the asphalt, and bridges suffered joint damage due to thermal expansion."
+
+Future Costs:
+"We estimate that under a medium-warming scenario wear and tear due to heat and precipitation changes will cost B.C. electricity utilities $120 million annually." Additionally, road wear and tear "will cost the provincial and municipal governments an estimated additional $175 million per year by 2030."
+
+Sector 4: Food Systems
+
+Agricultural Losses:
+
+Poultry: "About 661,000 poultry died... which represents more than $5 million in revenue losses."
+
+Dairy: "Half a million litres of milk were discarded because it was impossible to maintain it at cool temperatures."
+
+Fruit: "Cherry sales were down by nearly $15 million—a 19 per cent decline."
+
+Shellfish: "Up to 70 per cent of farmed shellfish died in some areas." "One million wild mussels died in a 100-metre stretch of shoreline in the Salish Sea alone."
+
+Indigenous Food Sovereignty:
+"The heat wave... likely contributing to food insecurity for Indigenous communities who rely on traditional food for their sustenance." For example, "Every family has their own favourite [huckleberry] picking spots... In 2021 we went to three locations before we were able to find berries in good enough condition to harvest."
+
+Institutional and Policy Gaps
+
+The report identifies specific failures in governance and preparation:
+
+Warning Systems: "Many decision makers... did not receive or act on information about forthcoming health risks until the heat wave had already arrived."
+
+Response Plans: "Important tools that are part of the province’s Comprehensive Emergency Management Plan... were not used at all or were only triggered on the final days of the disaster."
+
+Coordination: "No single organization took charge of the response."
+
+Code Orange: "Numerous physicians requested activation [of Code Orange] in hospitals across the Lower Mainland, but the status was not approved by administrators for most hospitals."
+
+Findings and Recommendations
+
+The report concludes with six major recommendations for the Government of B.C. and other authorities:
+
+Value of Life: "Explicitly account for the human as well as financial costs of heat-related illness and death in policy cost-benefit analyses."
+
+Cooling & Greening: "Urgently prioritize the targeted deployment of tools such as mechanical cooling and urban greening to help maintain safe indoor temperatures and protect lives."
+
+Evidence: "Increasing mechanical cooling returns between $6.90 and $4.60 for every dollar invested."
+
+Critical Infrastructure: "Build heat-related risk into critical infrastructure decision making and account for compounding hazards."
+
+Workforce Protection: "Provide businesses and employers with the tools and information they need to protect themselves and their employees from extreme heat."
+
+Disaster Response: "Address disaster response gaps and increase capacity to minimize impacts to people and the economy."
+
+Action: "Deliver accurate public heat warnings three days in advance."
+
+Review & Accountability: "The modernized Emergency Program Act should include requirements for independent and public reviews of disaster response and planning after major disasters."
+
+---
+
+2-Medical News & Perspectives | CLIMATE CHANGE AND HEALTH
+As Extreme Heat Becomes More Common,
+the Unprecedented Pacific Northwest Heat Dome Offers Lessons
+Jennifer Abbasi
+I n early summer of 2021, in the middle of
+the COVID-19 pandemic, another public
+health emergency was unfolding in
+the Pacific Northwest region of Canada
+and the US. The extreme heat event came to
+be known as a heat dome as an area of high
+pressure trapped
+warm air beneath
+it for days on end.
+Daytime tempera-
+tures climbed to
+well over 100 °F,
+with little overnight relief. June 29 reached
+121 °F, or 49 °C, in Lytton, a small town in
+British Columbia, becoming the hottest day
+on record in Canada.
+Estimates have put the number of
+heat wave–related deaths that occurred in
+Canada’s provinces of British Columbia and
+Alberta and the US states of Oregon and
+Washington at nearly 900. Most of the de-
+ceased were older adults who lived alone and
+died at home.
+More than 600 of the deaths occurred
+in British Columbia. But the cities of Seattle,
+Washington, and Portland, Oregon, weren’t
+spared. Together, they saw nearly 200 heat-
+related deaths. There, the heat dome lasted
+from June 25 to June 30. Temperatures
+reached 116 °F (46.6 °C) in Portland—more
+than 40 °F (22.2 °C) higher than normal.
+Researchers have since classified the
+2021 event as one of a handful of the most
+extreme heat waves on modern record. But
+it wasn’t an anomaly. A recent study in
+Nature found that the summer of 2023 was
+the hottest in the Northern Hemisphere’s
+nontropical regions in the past 2000 years.
+And this August, researchers reported in
+JAMA that heat-related deaths in the US have
+been steadily increasing since 2016.
+To reflect on the Pacific Northwest heat
+dome 3 years later, JAMA Medical News re-
+cently spoke with Jeremy Hess, MD, MPH,
+an emergency medicine physician and pro-
+fessor in the schools of medicine and public
+health at the University of Washington and
+director of the UW Center for Health and the
+Global Environment, and Andrew Phelps,
+who was director of the Oregon Depart-
+ment of Emergency Management at the time
+of the event. Phelps is a member of the US
+Federal Emergency Management Agency
+(FEMA) National Advisory Council and is now
+chief operating officer at Colorado-based
+AC Disaster Consulting. The two discussed
+lessons learned that can be applied as ex-
+treme heat and its health outcomes be-
+come more common.
+The following interview has been ed-
+ited for clarity and length.
+JAMA: I’d like to start by setting the scene
+for what happened in 2021.
+MR PHELPS: For context, we were well into
+year 2 of our COVID response and all the
+challenges that that presented. We had had
+in Oregon one of the most devastating
+wildfire seasons we had ever had. And in
+February of 2021 we had a historic ice storm
+that impacted a lot of Portland. So from an
+emergency management standpoint, we
+had been operational for really 16, 17 months
+straight heading into June of 2021. As we got
+toward the middle of June, we started see-
+ing our weather apps on our phones saying
+within a week the temperatures would be
+112 °F, 115 °F. About 5 or 6 days before the
+heat hit, the National Weather Service in
+Portland started issuing extreme heat advi-
+sories and validating the forecast.
+So it was a very well forecast event. We
+knew we were going to be seeing record-
+setting temperatures for multiple days, but
+these temperatures were so much higher
+than anything we’d ever experienced in the
+Portland Metro that we didn’t necessarily
+know how infrastructure was going to with-
+stand the shocks of these temperatures.
+With record-setting temperatures, we would
+expect record-setting energy usage for air
+conditioners. Although, I will say too that
+Portland has one of the lowest per capita air
+conditioning rates in the country. So many
+folks that live in the Portland Metro don’t
+have it because historically folks haven’t
+needed it.
+Multimedia
+Medical News website
+An administrative coordinator with a street outreach team in Portland, Oregon, tries to cool off while
+loading supplies in the summer of 2021.
+Nathan Howard/AP Images
+News & Analysis
+jama.com (Reprinted) JAMA October 1, 2024 Volume 332, Number 13 1035
+© 2024 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by University of Ottawa user on 02/09/2026
+JAMA: What happened in Seattle?
+DR HESS: We got reliable forecasts about 5
+days before the event, and they really were
+for unprecedentedly high temperatures both
+during the day and at night. There was ac-
+tually a reasonable amount of disbelief here
+and dismissiveness of the forecasts be-
+cause they just were so far outside of our his-
+torical experience—temperatures that were
+going to be about 40 °F above our usual sea-
+sonal averages. There was a bit of disbelief
+on the part of the general population that it
+could be that hot in Seattle for a sustained
+period of time.
+This level of extreme heat is not a haz-
+ard that we’re familiar with here. And so
+there was a lot of concern both about utili-
+ties and infrastructure as Andrew men-
+tioned, but also for the human health im-
+pacts. There was an effort to quickly put
+together a number of health protections for
+communities that we know from prior ex-
+perience here, but elsewhere mostly, are par-
+ticularly vulnerable.
+Within our health facilities, we had
+warnings go out to staff members commu-
+nicating the forecast, letting people know
+about our heat health–risk protocols, mobi-
+lization of the required supplies and other
+things in our EDs [emergency depart-
+ments]. And then there were a number of
+different efforts on the part of public health—
+Seattle, King County, and other city and
+county health departments and the state
+department of health—to mobilize protec-
+tions like cooling centers and make sure that
+people could get relatively easy access
+through free bus rides and other things.
+As Andrew mentioned, all of this was
+complicated by COVID considerations. I think
+we were actually in the middle of a bit of a
+surge. And so there were tensions there
+about how you improve access to cooled
+spaces and make sure that you protect
+people against the next round of COVID.
+MR PHELPS: I think we had around 200 or
+220 cooling centers established across the
+state. And a lot of engagement with the me-
+dia to get the word out. But again, some-
+thing that’s so far out of the norm was cer-
+tainly met with a healthy dose of skepticism.
+And you can’t underemphasize the impor-
+tance of being in the midst of COVID. For 14,
+15 months, we had been telling people to
+avoid congregating together and being in
+crowds and then suddenly the message for
+something like this is “If you don’t have
+air conditioning, if you have underlying
+medical conditions, get yourself to a cool-
+ing center and congregate.” Masking proto-
+cols were in place here in Oregon state-
+wide, but it was perhaps a contradictory
+message for some folks.
+JAMA: What did you end up seeing at those
+cooling centers? What was the public’s up-
+take of those resources?
+MR PHELPS: In the Portland Metro and
+throughout Oregon they were being used,
+and that was something that made me feel
+optimistic about the messaging that we had
+been doing. So as we learned later what the
+impacts were of this event and the number
+of fatalities, that was one of the things that
+I really struggled with and I think the emer-
+gency management community in Oregon
+really struggled with. When you had re-
+sources available and tried to make them as
+accessible to multiple communities through-
+out the Portland Metro as possible, why did
+some folks not have the access that we
+thought they would to these cooling cen-
+ters to be able to take advantage and find a
+way to cool off? They were very well publi-
+cized, we thought. And that was what made
+it so much more difficult to understand
+where we had failed to ensure that every-
+body that needed access could access them
+and was willing to access them.
+JAMA: What was the Seattle experience?
+DR HESS: The Seattle experience was one
+of searing heat, and it worsened steadily
+over 3 days. June 28 was the worst and the
+day that we saw the most impacts [in the
+ED]. Despite our best efforts, there were
+pretty significant health impacts. They
+impacted the communities that we know
+are vulnerable to extreme heat. This
+includes people at the extremes of the age
+spectrum, particularly elders who have
+more underlying chronic conditions. People
+who are impoverished and may not have
+the means to avail themselves of protective
+measures like fans or certainly air condi-
+tioning. People who have substance use
+disorder and maybe didn’t get the mes-
+sages. People who don’t speak English as a
+first language and don’t get some of the
+preventive messages. And people who are
+isolated for any number of reasons and
+didn’t have people checking on them or
+maybe not frequently enough.
+And so we saw a number of emergency
+department visits during the heat dome as-
+sociated with heat-related illnesses—heat
+exhaustion, heat stroke, exacerbations of
+chronic diseases that were caused by stress-
+ful exposure to the heat, and drowning.
+People were flocking to the water because
+it’s cooler there, and in some cases, we had
+drowning as a result. So we definitely saw a
+spike in all of these different injuries and ill-
+nesses, and it correlated directly with the
+temperature.
+I worked the night of the 28th at
+Harborview, which is our level 1 trauma cen-
+ter and serves as a regional coordinating
+center for disasters. One thing I was struck
+by was that we had patients who had con-
+tact burns from hot pavement, which hasn’t
+historically been a frequently seen injury
+from extreme heat events. We’re a burn cen-
+ter, and so we had a number of those pa-
+tients in the ED. We also provide online medi-
+cal control for prehospital care providers at
+Harborview. That phone was off the hook.
+We were getting lots and lots and lots of calls
+from the providers in the field treating pa-
+tients with heat stroke. A number of those
+patients never arrived in the ED. They didn’t
+make it to us.
+We were stressed, but we’re also a
+pretty well-resourced county hospital that
+is staffed to surge, so we were okay. But
+one of our other facilities in UW Medicine
+Valley Medical Center was in crisis. Over the
+course of the evening, they received so
+many patients with heat stroke who were
+intubated, and there are a number of fac-
+tors that drove that local outbreak of
+heat stroke.
+Luckily the heat broke the next day and
+pretty quickly thereafter, we saw a reduc-
+tion in heat-related illnesses and injuries. But
+a few days later working at another one of
+our facilities, I saw patients who had other
+nonfatal complications related to the heat.
+I saw new onset of severe kidney disease,
+kidney failure requiring dialysis, and other
+events that were striking several days after
+the event—people who had thought they
+were adequately protected and then had se-
+quelae of the heat exposure.
+JAMA: Andrew, one of the things you
+mentioned at a FEMA-sponsored extreme
+heat summit that was held in Chicago this
+year was that the emergency departments
+did not seem inundated in Portland and
+that it was later that the excess deaths told
+the story of what was happening in peo-
+ple’s homes.
+News & Analysis
+1036 JAMA October 1, 2024 Volume 332, Number 13 (Reprinted) jama.com
+© 2024 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by University of Ottawa user on 02/09/2026
+MR PHELPS: From the statewide view of
+emergency management, one of the things
+we look at is whether hospitals go on divert
+and what their status is. And we certainly
+weren’t receiving those types of reports.
+Frankly, as we came out of the heat event
+and the heat broke, we breathed a bit of a
+sigh of relief thinking, okay, “We didn’t have
+those utility outages. We didn’t have hospi-
+tals having to divert patients due to an over-
+whelming number of people seeking medi-
+cal treatment. We didn’t have Interstate 5
+buckle due to the heat.” It wasn’t until 2 or 3
+days later that we learned through the state
+medical examiner that they were investigat-
+ing north of 100 heat-related fatalities. And
+that was just such a shock to the system to
+hear. It was one of the more sad moments
+of my career to understand that we came up
+short with trying to protect Oregonians dur-
+ing this record-setting event.
+JAMA: So what happened? Why were
+there these unaccompanied deaths in peo-
+ple’s homes?
+MR PHELPS: We immediately sought to un-
+derstand the why, and a lot of that was un-
+derstanding who died. And what we found
+was that the overwhelming majority of heat-
+related fatalities during this event were
+White males, most of them living either in
+multifamily housing, apartments, single-
+room occupancy–type homes, or manufac-
+tured housing, mobile homes, etc. They were
+mostly between the ages of 60 and 80 and
+male. And when you think about folks that
+maybe don’t always seek help or medical at-
+tention when they’re not feeling well, that’s
+the demographic.
+It caused us to really think about how
+we message for events like this. It is a fine line
+when you’re doing public communications
+during an emergency of elevating the mes-
+sage enough so that folks know they need
+to take it seriously, but not trying to use scare
+tactics to get folks to take action. So a lot of
+our messaging pre-event and during the
+event was: “This is abnormally hot. We’ve
+never seen temperatures like this. We have
+cooling centers set up. Please check on your
+neighbors and your family.” And I think based
+on conversations we had with victim’s rela-
+tives, with emergency managers, with the
+communities, that “check on your neigh-
+bors” wasn’t the right message.
+We had heard, anecdotally, folks say-
+ing, “I called my uncle at 11 in the morning and
+he was fine. By 10 at night, he was dead.”
+I think 15% of the fatalities were in homes
+that had air conditioning. But these were
+people oftentimes on fixed income who
+were afraid they couldn’t afford the extra
+utility bill, so they never turned their air con-
+ditioning on. And that was devastating as
+well, that there were solutions available to
+help these folks, that these deaths were pre-
+ventable. And that through a combination of
+missing the mark on messaging, the inabil-
+ity or the unwillingness or the fear of folks
+having to pay extra utility bills to turn on the
+air conditioning, and for multiple reasons not
+being able to get to or take advantage of the
+cooling centers, we had these fatalities.
+During the rest of 2021 and into 2022,
+we had a number of other excessive heat
+events, not nearly the 116°F-days that we had
+in Portland earlier in the year, but 104 °F,
+105 °F, pretty hot temperatures for the
+Pacific Northwest and Portland in particu-
+lar. And so we shifted our message to be
+much more stark. Not “check on your neigh-
+bor.” It was “go and put eyes on your neigh-
+bor, on your family members, on your co-
+workers. If they do not have a way to stay
+cool, if they don’t have air conditioning, get
+them someplace where they can cool off for
+a little bit. This level of heat will kill you if you
+don’t find a way to cool off and stay cool.” We
+worked with public transportation in and
+around the Portland Metro to offer not only
+free rides to the cooling centers, but also
+making recommendations like if you’ve got
+a bus to set up on a street corner or if you al-
+low folks to just ride a bus and cool off in the
+air conditioning in the bus, that’s a way for
+folks to avoid these types of temperatures.
+So there were some of those short-
+term immediate impacts that we were able
+to leverage and implement. But this is not a
+short-term problem. And this is certainly
+not an anomaly or an outlier. In my mind,
+it’s an indicator of things to come. So we
+need to take the same approach to exces-
+sive heat that we take to other hazards and
+threats like wildfire or hurricanes or earth-
+quakes. Disasters ultimately are policy
+issues. The decisions that are made by poli-
+cymakers often related to how we build
+and where we build, and we need to make
+substantive changes in how we build and
+where we build to address this persistent
+and increasing threat of excessive heat and
+high temperatures.
+JAMA: Jeremy, do you have anything to
+add in terms of the deaths that occurred in
+Seattle? What were the patterns that you
+saw there?
+DR HESS: Overall, we also saw that there
+was a disproportionate number of people
+who were older among the folks who died.
+In our case, there wasn’t as much of a gen-
+der disparity, I don’t believe. There was a
+higher-than-expected risk for people who
+were Black and for Native Americans and
+Pacific Islanders.
+But all the things that Andrew men-
+tioned are very familiar from other heat epi-
+demiology work. And listening to him talk
+about it, I can tell this is painful. It was pain-
+ful for us too, because we knew that these
+are preventable injuries, illnesses, and
+deaths, and yet it’s very difficult to, on a very
+quick basis, deploy all of the protections that
+you need. I really struggled with this event
+because I do have expertise in this space.
+This is the kind of thing that really I felt like
+I should have helped my community pre-
+vent more effectively than I did. And I’ve
+struggled with that since the event.
+JAMA: It’s striking to hear you both say that.
+DR HESS: But I also recognize as I’ve re-
+flected on it that…we used to refer to the
+health effects of heat as entirely prevent-
+able. I don’t think we generally do that
+anymore. And I think that’s appropriate be-
+cause it’s actually very difficult to fully pro-
+tect the population against extreme heat,
+which is not to say that we should expect any
+certain level of mortality associated with
+these events, but that we should, as Andrew
+said, really respect how hazardous these
+events are and how complicated it can be to
+protect people who are vulnerable and sus-
+ceptible for any number of different rea-
+sons. And it certainly has to do with how we
+build and how we manage our built environ-
+ments and how we manage things like util-
+ity subsidies and how we support outreach
+and all sorts of other things.
+But we also live in a community that,
+at least here prior to this event, had very little
+protective reflex around heat. We had never
+experienced anything like this before. I’ve
+lived in very hot places and when warnings
+go out, people know what to do. There’s cer-
+tainly a trend in preventive messaging re-
+lated to disasters to do exactly what Andrew
+outlined—be very explicit about what to do
+and what the risks are. And we certainly need
+to do that in our messaging here. But also,
+we were dealing with a very short time-
+frame to mobilize a massive protective
+News & Analysis
+jama.com (Reprinted) JAMA October 1, 2024 Volume 332, Number 13 1037
+© 2024 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by University of Ottawa user on 02/09/2026
+response within a community that had never
+experienced that kind of hazard before. So
+I think we also have to be a little gentle with
+ourselves recognizing that that was a very
+difficult context within which to operate.
+The other thing that I’ll say is the Pacific
+Northwest heat dome of 2021 affected all
+these different communities in the Pacific
+Northwest in different ways. This event was
+one big regional disaster, but it was also a
+bunch of different, more local disasters. Here
+in Seattle, it’s much cooler than it is in east-
+ern Washington. Even though the tempera-
+tures they experienced were also clearly well
+above normal, they have better protective
+resources and reflexes than we do over here
+in the Puget Sound because we just never
+have experienced anything like this before.
+We also had a relatively short event, whereas
+some other parts of the Pacific Northwest
+suffered under heat for considerably lon-
+ger, and then some had compound disas-
+ters. Up in BC [British Columbia], their heat
+exposure was much longer and they also had
+wildfire exposure during the event. And that
+created a completely different set of haz-
+ards and in some ways a more impactful di-
+saster for them. [Editor’s Note: The town of
+Lytton was destroyed by a wildfire the day
+after Canada’s temperature record was bro-
+ken there.]
+That too is an important thing to rec-
+ognize. It’s important to recognize the local-
+ity of every disaster and this specificity of
+context but also that as these events be-
+come more common, as we get closer and
+closer to the thresholds of what we’re able
+to deal with relatively quickly, we have an in-
+creased risk of significant compound ef-
+fects from cascading hazards.
+Here in Seattle, we’ve taken to heart a
+lot of lessons from this event. The 28th was
+the busiest day for Seattle King County
+Medic One in its history, until December
+2022 when we had another weather-
+related disaster related to an ice storm. So
+the highest demand that we’ve put on our
+prehospital care here has been related to
+weather-related disasters. And so I think
+there’s an enhanced understanding these are
+really significant events potentially for us.
+We’ve started to create planning scenarios
+informed by climate science and projec-
+tions of climate change for the region, rec-
+ognizing that compound hazards are in fact
+fairly likely at this point, and that the sce-
+narios may on their faces seem almost out-
+landish, but they’re now actually a poten-
+tial reality and that we need to at least drill
+for the possibility of cascading failures and
+the health impacts that may result.
+JAMA: Andrew, could you share what les-
+sons you learned and could be taken away
+by other regions that may not be accus-
+tomed to this type of heat?
+MR PHELPS: There’s quite a few things that
+have emerged for me, especially as an emer-
+gency manager. The importance of messag-
+ing, as I stated, is critically important. Being
+clear and direct about how dangerous these
+events are. The Pacific Northwest in many
+ways is an early adopter, as it were, of
+climate-driven hazards, whether it’s wild-
+fire or excessive heat or flooding in areas that
+wouldn’t historically flood. And we’re see-
+ing these types of hazards migrate east
+across the country. We’re seeing more wild-
+fires and more excessive heat in places like
+the Midwest and the East Coast. So as my
+colleagues across the country plan for what
+I think is in many ways an inevitability, un-
+derstanding the messaging, understanding
+the demographics of your community, un-
+derstanding that one message may not reso-
+nate with the entire community so differ-
+ent messages that are geared toward the
+demographics, the cultural specificity of your
+community, is really important.
+Some of those stopgap measures like
+what we’ve done in Oregon with our air
+conditioning program: if you qualify for cer-
+tain medical assistance, you can receive a
+free air conditioner and then there’s also
+offsets for utility bills for folks in need.
+Worker safety is huge. We’ve got a tremen-
+dous agricultural industry in Oregon and
+the Pacific Northwest. So an intentional
+approach to ensuring that those folks that
+are out working, whether it’s in the fields or
+the orchards or the vineyards, that they
+have protections in place. That they’re not
+made to work when it’s a 100 °F, 105 °F,
+110 °F outside without breaks, without cold
+water, without some level of protection
+from those heat events. That goes a long
+way as well.
+But when we look further off to the
+horizon, thinking about things that we can
+do to make the built environment better
+able to withstand the shocks and stressors,
+there are a number of studies that show the
+cooling effects of green space. The city of
+Portland after the heat event in 2021 suc-
+cessfully requested and received funding
+for the planting of, I think, 10 000 trees in
+mapped heat islands. These are areas that
+have a higher ability to retain heat due
+to concrete and the built environment.
+Through this FEMA grant and the Building
+Resilient Infrastructure and Communities
+program, they’re now able to reduce the
+impacts of these heat islands and make
+those areas a little bit cooler. These heat
+islands oftentimes translated exactly to
+where those folks lost their lives in the 2021
+heat dome event.
+So for emergency managers to under-
+stand again that this is not just about high
+temperatures, but our built environment
+and how we build and where we build, that
+goes a long way toward reducing the
+impact and mitigating against the effects of
+what is going to become, in my mind, more
+frequent excessive temperature events.
+This is the trend we’ve seen for the last 80
+years. The highest years on record since
+1850 have been within the last 9 or 10
+years. This is not a problem that’s going to
+abate anytime soon.
+DR HESS: I completely agree that we need
+to be more mindful and attentive to how the
+built environment amplifies risk in some
+places. Planting trees is really important, and
+there’s huge historical inequity in green
+space and blue space access that we need to
+rectify as quickly as possible. But some of
+those interventions are going to take 20, 30
+years to mature. And we also have to recog-
+nize that most tree planting will occur on pri-
+vately owned land and will require the own-
+ers to maintain those trees. There’s a high
+mortality rate for a lot of those efforts. It’s a
+complicated intervention. Trees are a won-
+derful infrastructure, but they’re actually ex-
+pensive infrastructure to maintain and de-
+velop. And it worries me sometimes that
+there’s so much attention and investment
+going into that kind of infrastructure and not
+recognizing that right now we need to de-
+ploy heat pumps. We need to deploy subsi-
+dies for power bills. And we need to deploy
+cooling centers and buddy programs and
+other proven strategies for protecting highly
+vulnerable people right now for the next
+event because those other preventive mea-
+sures are going to take a long time to reach
+their full mature protective effects.
+JAMA: What’s a heat pump?
+DR HESS: A heat pump is a mechanical air
+conditioning that is much more efficient and
+so uses less energy. It provides the same
+amount of cooling but reduces the load on
+News & Analysis
+1038 JAMA October 1, 2024 Volume 332, Number 13 (Reprinted) jama.com
+© 2024 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by University of Ottawa user on 02/09/2026
+the grid and reduces the greenhouse gas
+emissions that come from electricity if it’s not
+produced through renewable sources.
+JAMA: Energy subsidies have been men-
+tioned by both of you several times, and it’s
+something that seems to be coming up more
+and more in our reporting. How important do
+you think energy subsidies are going to be go-
+ing forward to protect people from heat?
+DR HESS: I think it’s one of several effec-
+tive strategies. Unfortunately, there’s been
+pretty systematic underinvestment in inves-
+tigations around interventions to reduce
+health risks from heat. We’re slowly getting
+more information about modifications in the
+built environment and what their treat-
+ment effects are. And so eventually, we’ll be
+able to answer that question with more pre-
+cision. But right now, I think it’s a basket of
+interventions that you need to invest in. And
+energy subsidies certainly don’t seem to be
+harmful, and they do seem to be protec-
+tive. But how protective they are relative to
+some of the other interventions that we
+could pursue, I’m not sure.
+MR PHELPS: Iwouldechothat.It’sonepiece,
+one mechanism to help reduce some of the
+impacts,notjustinthesummerforcoolingand
+toavoidheat-relatedinjuryanddeath,butalso
+in the wintertime when you have folks that
+can’t warm their homes. But again, it’s not
+a total solution to this problem.
+DR HESS: There are a number of different in-
+terventions that actually can reduce risk for
+a bunch of different climate-sensitive haz-
+ards. So some kind of mechanical cooling if
+coupled with the appropriate air filtration,
+can protect you against extreme heat, ex-
+treme cold, and particulate air pollution dur-
+ing wildfire events. It’s a useful interven-
+tion for a number of the problems that we
+are seeing. You want to make sure that you
+are deploying it thoughtfully and that you’re
+not adding to the problem by increasing
+greenhouse gas emissions. And you also
+want to make sure that you do it in a way
+that doesn’t overwhelm your grid, so you
+don’t want to create additional problems
+through the interventions that you’re pro-
+moting.
+MR PHELPS: I think my call to action on this
+is that we need to find that sense of com-
+munity again. The thought of someone los-
+ing their life in a heat event by themselves
+in an apartment or in a mobile home that was
+125 °F, 130 °F, 140 °F inside is devastating.
+There’s no reason in a city like Portland, in a
+metro area like Portland, in a place like the
+Pacific Northwest, that someone should be
+alone and suffering without a neighbor or
+someone being able to come and check on
+them. The notion that we have to try to take
+care of each other a little bit during these
+types of events is one of the things that
+I keep coming back to when I reflect on the
+2021 heat dome. We have to take care of
+each other. That’s the bottom line for me.
+DR HESS: I absolutely agree, and I have
+one other thought that I want to make
+sure that I insert. The problem was that we
+didn’t really apply all of the knowledge we
+have about what makes communities vul-
+nerable and to some degree individual
+people vulnerable in those communities.
+What creates pockets of vulnerability
+hotspots, if you will. And we didn’t and
+haven’t invested adequately in infrastruc-
+ture to support surges wherever they may
+take place. Our challenges as a health sys-
+tem during this event were mostly related
+to concentrations of vulnerability and ill-
+ness and then capacity. And this is particu-
+larly important when you start to think
+about cascading hazards that can quickly
+overwhelm your capacity, particularly if you
+operate, like many of our facilities do, near
+full capacity and occasionally over full
+capacity on a regular basis. Our staff are
+highly trained. They knew exactly what to
+do, but they bumped up against the limita-
+tions of the system.
+Author Affiliation: Director, Medical News &
+Perspectives, JAMA.
+Published Online: September 6, 2024.
+doi:10.1001/jama.2024.17788
+Correction: This article was corrected on
+September 13, 2024, to fix the higher-than-normal
+increase in temperature experienced in Portland,
+Oregon, during the summer of 2021, from 4 °C to
+22.2 °C.
+Conflict of Interest Disclosures: Dr Hess reported
+receiving honoraria from Columbia University for a
+webinar presentation and Harvard University for
+a practice guidance review; receiving travel support
+from University College London for a grantee
+meeting for the Lancet Countdown on Health and
+Climate Change and from Wellcome Trust for a
+workshop on modeling climate change health
+impacts; and being an unpaid board member for
+the Seattle Parks Foundation. No other disclosures
+were reported.
+Note: Source references are available through
+embedded hyperlinks in the article text online.
+News & Analysis
+jama.com (Reprinted) JAMA October 1, 2024 Volume 332, Number 13 1039
+© 2024 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by University of Ottawa user on 02/09/2026
+
+---
+
+3-Lessons learnt from the 2021 Pacific
+Northwest heat dome: a qualitative
+study of western Washington’s
+healthcare community response
+Matias Korfmacher ,1 Cat Hartwell ,1 Kelly Hill,2 Nathaniel Matthews-Trigg,1,2
+Jeremy Hess ,1,3,4 Amruta Nori-Sarma ,5,6 Gregory Wellenius ,5
+Nicole Errett 1
+To cite: Korfmacher M,
+Hartwell C, Hill K, et al. Lessons
+learnt from the 2021 Pacific
+Northwest heat dome: a
+qualitative study of western
+Washington’s healthcare
+community response. BMJ Open
+2025;15:e089093. doi:10.1136/
+bmjopen-2024-089093
+► Prepublication history
+and additional supplemental
+material for this paper are
+available online. To view these
+files, please visit the journal
+online (https://doi.org/10.1136/
+bmjopen-2024-089093).
+Received 25 May 2024
+Accepted 07 March 2025
+For numbered affiliations see
+end of article.
+Correspondence to
+Dr Nicole Errett; nerrett@ uw.edu
+Original research
+© Author(s) (or their
+employer(s)) 2025. Re-use
+permitted under CC BY.
+Published by BMJ Group.
+ABSTRACT
+Objective The 2021 Pacific Northwest heat dome was
+Washington state’s deadliest recorded weather event and
+presented unprecedented response challenges to the
+state’s health sector. Understanding the impacts of this
+extreme heat event (EHE) on the sector as well as the
+barriers to and facilitators of implementing effective heat
+response is critical to preparing for future events, which
+are happening more frequently in the region due to climate
+change.
+Design Guided by an implementation science framework,
+we convened listening sessions and focus groups of the
+health sector in western Washington to reflect on regional
+response efforts.
+Setting Health sector organisations in 15 counties in
+western Washington State, USA: Clallam, Grays Harbor,
+Island, Jefferson, King, Kitsap, Lewis, Mason, Pacific,
+Pierce, San Juan, Skagit, Snohomish, Thurston and
+Whatcom.
+Participants A convenience sample of 109 listening
+group participants was recruited through the professional
+networks of the Northwest Healthcare Response Network,
+a regional healthcare coalition. 27 of the health sector
+professionals were recruited using purposive sampling
+to participate in seven focus groups organised by
+organisation type.
+Results The co-presence of the COVID-19 pandemic,
+limited staff capacity, resource acquisition challenges
+and inadequate regional collaboration emerged as
+key barriers, while advanced planning, indoor cooling
+capabilities, adapting strategies to local needs, robust
+internal relationships and strong external partnerships
+were reported to facilitate effective response. Establishing
+centralised coordination ahead of heat events, making
+improvements to the cooling capabilities of the built
+environment, developing plans and policies for EHEs that
+have co-benefits for other events, adopting evidence-
+informed response strategies, institutionalising the
+knowledge and relationships developed through prior
+events and improving evaluative processes (such as
+developing real-time monitoring capacity) will enable more
+effective response to future EHEs.
+Conclusions Western Washington’s health sector
+implemented EHE response activities that enabled
+essential service continuity, despite limited resources,
+unfamiliarity with EHEs and other systemic challenges.
+The recency of the heat dome presents an opportunity to
+incorporate lessons learnt into practice, policies, plans
+and built environment; these are necessary improvements
+ahead of future large-scale events the region may
+experience in the coming decades
+
+---
+
+4- Description of the built environment associated with fatal heat-related injuries during the 2021 western North American extreme heat event Chinowsky, Emily E.
+Abstract
+
+British Columbia (BC) experienced 619 heat-related deaths during the 2021 heat dome, according to the BC Coroners Service (BCCS). Many of those deaths were among highly susceptible people, with poverty, schizophrenia, and other chronic conditions being significant risk factors for death in epidemiologic analyses. Many of the fatal heat-related injuries were recorded in specific building types, including mobile homes and high-rise multi-unit residential buildings (MURBs). Understanding these built environment characteristics where injuries and deaths occurred could assist in planning for future extreme heat events and implementing measures to mitigate potential injuries. However, developing this understanding has previously required physical access to individual sites to document their specific attributes, which is resource-intensive and prohibitive for large-scale studies. This study demonstrates the potential to leverage publicly available imagery to reduce the effort required to gather built environment characteristics. By combining street addresses of known fatal heat-related injuries with satellite and street view data from Google Maps and Earth, the study collected data for each site where an injury occurred. Analysis of the information found disproportionate representation of specific building types, absence of greenery and mature trees, and built environment density patterns in multiple settings. The study results indicate that characteristics such as building orientation, amount of glass surface area, and the condition of structures could all factor into risk to susceptible people during extreme heat events. Furthermore, two distinct building typologies were among these injury locations: high-rise MURBs with high window-to-façade surface area ratio and older, shorter buildings with few windows. The study demonstrated the value of publicly available visual data, and methods could be applied to other disasters such as wildfires and floods. 
+
+---
+
+O R I G I N A L A R T I C L E
+D i s a s t e r a n d Te r r o r i s m
+5-Impacts of the 2021 heat dome on emergency department
+visits, hospitalizations, and health system operations in three
+hospitals in Seattle, Washington
+Zachary S. Wettstein MD, MS1,2 Steven H. Mitchell MD1,3 Jane Hall PhD1 Jeremy J. Hess MD, MPH1,2
+Cameron Buck MD1
+1 Department of Emergency Medicine,
+University of Washington School of Medicine,
+Seattle, Washington, USA
+2 Center for Health and the Global
+Environment, University of Washington School
+of Public Health, Seattle, Washington, USA
+3 Washington Medical Coordination Center,
+Seattle, Washington, USA
+Correspondence
+Zachary S. Wettstein, MD, MS, Department of
+Emergency Medicine, University of
+Washington School of Medicine, Seattle, WA,
+USA.
+Email: zwett@uw.edu
+Abstract
+Objectives: Extreme heat events (EHEs) are associated with excess healthcare utiliza-
+tion but specific impacts on emergency department (ED) operations and throughput
+are unknown. In 2021, the Pacific Northwest experienced an unprecedented heat
+dome that resulted in substantial regional morbidity and mortality. The aim of this
+study was to examine its impact on ED utilization, unplanned hospitalization, and
+hospital operations in a large academic healthcare system.
+Methods: Retrospective electronic medical records from three Seattle-area hospitals
+were used to compare healthcare utilization during the EHE compared to a pre-event
+reference period within the same month. Interrupted time series analysis was used
+to evaluate the association between EHE exposure and ED visits and hospitalizations.
+Metrics of ED crowding for the EHE were compared to the reference period using Stu-
+dent’s t-tests and chi-squared tests. Additionally, multivariable Poisson regression was
+used to identify risk factors for heat-related illness and hospital admission.
+Results: Interrupted time series analysis showed an increase of 21.7 ED visits per day
+(95% confidence interval [CI]=14.7, 28.6) and 9.9 unplanned hospitalizations per day
+(95% CI=8.3, 11.5) during the EHE, as compared to the reference period. ED crowding
+and process measures also displayed significant increases, becoming the most pro-
+nounced by day 3 of the EHE; the EHE was associated with delays in ED length of stay
+of 1.0 h (95% CI=0.4, 1.6) compared to the reference period. Higher incidence rate
+ratios for heat-related illness were observed for patients who were older (incidence
+rate ratio [IRR]=1.02; 95% CI=1.01,1.03), female (IRR=1.47; 95% CI=1.06, 2.04),
+or who had pre-existing diabetes (IRR=3.19; 95% CI=1.47, 6.94).
+Conclusions: The 2021 heat dome was associated with a significant increase in health-
+care utilization including ED visits and unplanned hospitalizations. Substantial impacts
+on ED and hospital throughput were also noted. These findings contribute to the
+This is an open access article under the terms of the Creative Commons Attribution-NonCommercial-NoDerivs License, which permits use and distribution in any
+medium, provided the original work is properly cited, the use is non-commercial and no modifications or adaptations are made.
+© 2024 The Authors. JACEP Open published by Wiley Periodicals LLC on behalf of American College of Emergency Physicians.
+JACEP Open 2024;5:e13098. https://doi.org/10.1002/emp2.13098
+wileyonlinelibrary.com/journal/emp2 1 of 10
+2 of 10 WETTSTEIN ET AL.
+understanding of the role extreme heat events play on impacting patient outcomes and
+healthcare system function.
+K E Y W O R D S
+climate change, disaster, heat, heat wave, operations
+
+---
+
+6-Extreme Heat in the Home: Understanding the 2021 Pacific Northwest Heat Wave through the British Columbia Coroners Report
+Rachel N. Stern, Mohammed Rafi Arefin
+Journal of Disaster Studies
+University of Pennsylvania Press
+Volume 1, Issue 1, 2024
+pp. 103-118
+Article
+
+    View Citation
+
+Additional Information 
+Abstract
+
+In 2021, there was an unprecedented heat wave across the Canadian province of British Columbia that led to the deaths of 619 people, almost all of whom died in their homes. This research note focuses on a report from the BC Coroners Service that explores quantitative data on who died during the heat dome and puts forward key recommendations for future events. We argue that this report focuses too heavily on the immediate causes of death and suffering and does not thoroughly address the important structural factors of inequality that underpin how people experience heat in their homes. Drawing on political ecology, we highlight housing injustice and tenancy in British Columbia as key structural components of inequality, and discuss unaffordability and individual contexts that contribute to how people experience heat events differently across scales and geographies. We also discuss debates around recent policies on air conditioning and the Material and Social Deprivation Index. We conclude that while the Coroners Service report has made valuable contributions to statistical knowledge, its conclusions and recommendations do not go far enough to address the underlying structural factors of housing insecurity.
+
+---
+
+7-
+Beat the Heat: Community Perspectives Around Extreme Heat in Spokane, WA, Post-2021 Northwest Heat Dome
+Authors
+
+Jason J. Lau
+Brian G. Henning, Gonzaga University
+Follow
+
+Kate Tokareva
+Kaitlan Ducken, Gonzaga University
+Follow
+
+Faisal S. Malik
+Tania Busch Isaksen, University of Washington
+Document Type
+
+Article
+Publication Title
+
+Journal of Community Medicine & Public Health
+Abstract
+
+Extreme heat events are the leading weather-related causes of death in the United States. Despite heat familiarity in eastern Washington, at least 19 heat-related deaths occurred in Spokane County during the 2021 “heat dome” in the Northwest. To assess heat concerns among vulnerable groups and identify cooling access barriers, surveys were conducted with Spokane County residents from July to November 2022. Descriptive statistics and ordinal logistic regression characterized perceptions of heat, access to home cooling, and interest in public cooling for vulnerable populations. A total of 1477 adults completed the survey. Demographics were comparable to the Spokane County US Census: 22.8% were 65+ years old, 83.1% non-Hispanic White, 30.2% had elderly at home, 29.6% had children at home, 40.9% had a disability or chronic illness at home, and 26.8% were renters. Nearly half perceived a mild-to-no threat of heat to personal well-being. Households with disabilities/medical illness, history of seeking medical attention due to heat, no AC, or renters having significantly greater heat concerns. Among those without AC, 66.9% preferred to stay home on very hot days and 44.4% would not consider using a public cooling center. Barriers to using public cooling included accessibility, entertainment, infection risk, and personal safety. Effective communication and intervention strategies should be tailored to the needs and perceptions of at-risk groups. Multimodal approaches are needed to address strong preferences to stay home and obstacles for utilizing public cooling spaces.
+
+---
+
+8-Excess Injury Mortality in Washington
+State During the 2021 Heat Wave
+Joan A. Casey, PhD, MA, Robbie M. Parks, PhD, MA, Tim A. Bruckner, PhD, MPH, Alison Gemmill, PhD, MA, MPH, and
+Ralph Catalano, PhD, MRP
+Objectives. To determine whether the 2021 Paci c Northwest heat wave resulted in excess injury (both
+unintentional and intentional) deaths.
+Methods. With US death certi cate data from December 29, 2013, to July 31, 2021, we generated
+weekly counts of injury deaths in Washington State and the rest of the country. We used time-series
+methods to identify excess injury deaths that may have occurred during and following the anomalously
+warm temperature period based on those expected from history and from simultaneous deaths in the
+remainder of the United States.
+Results. Beginning the week including June 25, 2021 (heat wave initiation), 3 weeks exceeded the
+expected count of injury deaths in Washington State, with an estimated total of 159 excess injury deaths
+(95% detection interval5 122, 195) during the 3-week period.
+Conclusions. The 2021 Paci c Northwest heat wave was associated with an increase in injury deaths.
+Public Health Implications. Under global warming scenarios, heat waves of this magnitude will
+become much more common. Adaptation and planning efforts are needed to protect residents of the
+historically temperate Paci c Northwest for a range of health outcomes. (Am J Public Health. 2023;113(6):
+657–660. https://doi.org/10.2105/AJPH.2023.307269)
+
+---
+
+9-Observed Impacts of Heatwaves
+
+Abstract
+
+This chapter provides an overview of the observed impacts of heatwaves, focusing on human populations, the economy, society, infrastructure, domesticated animals, terrestrial wildlife, and marine environments. For human populations heat-related mortality is a major concern, with heatwaves causing more deaths than any other natural hazard in some countries. Vulnerable groups, such as the elderly and children, are disproportionately affected, with significant increases in mortality rates during heatwave events. The health impacts of heatwaves can be exacerbated by chronic diseases, pregnancy, and behavioural changes. Economically, heatwaves impose substantial costs on infrastructure, labour productivity, and healthcare systems. The agricultural sector is also affected, with heatwaves causing significant reductions in crop yields and livestock productivity. Increased aggression, mental health issues, and changes in social behaviour as social impacts arising from heatwaves are also touched upon. Because infrastructure systems, especially energy and transport, are highly vulnerable to heatwaves, impacts often manifest in the form increased cooling demand during heatwaves leading to grid failures and brownouts and blackouts and damage to rail and road networks via road heave and rail buckling, resulting in delays and increased maintenance costs. Domesticated animals and wildlife are not spared from the impacts of heatwaves. High mortality rates among cattle, poultry, and other farm animals are common during heatwave events. Wildlife, including some iconic species, also suffer significant mortality due to heatwave related heat stress. Marine environments are equally affected, with marine heatwaves causing widespread mortality among some marine species, disrupting food webs, and altering ecosystem structures. The chapter underscores the urgent need for systematic data collection on heatwave impacts to develop effective risk management strategies. It calls for integrated global systems to accurately record heatwave-related deaths and economic losses. The chapter concludes by emphasizing the importance of understanding the full scale of heatwave impacts to inform policy and adaptation and mitigation measures.
+
+---
+
+10-Article https://doi.org/10.1038/s41467-023-36289-3
+The unprecedented Paci c Northwest heat-
+wave of June 2021
+Received: 30 June 2022
+Accepted: 24 January 2023
+Rachel H. White 1 , Sam Anderson 1, James F. Booth2,3, Ginni Braich4
+,
+Christina Draeger 1, Cuiyi Fei1, Christopher D. G. Harley 5
+,
+Sarah B. Henderson 6,7, Matthias Jakob 1,8, Carie-Ann Lau8
+,
+Lualawi Mareshet Admasu1, Veeshan Narinesingh9, Christopher Rodell1
+,
+Eliott Roocroft1, Kate R. Weinberger7 & Greg West10
+Check for updates
+1234567890():,;
+1234567890():,;
+In late June 2021 a heatwave of unprecedented magnitude impacted the Paci c
+Northwest region of Canada and the United States. Many locations broke all-
+time maximum temperature records by more than 5 °C, and the Canadian
+national temperature record was broken by 4.6 °C, with a new record tem-
+perature of 49.6 °C. Here, we provide a comprehensive summary of this event
+and its impacts. Upstream diabatic heating played a key role in the magnitude
+of this anomaly. Weather forecasts provided advanced notice of the event,
+while sub-seasonal forecasts showed an increased likelihood of a heat extreme
+with lead times of 10-20 days. The impacts of this event were catastrophic,
+including hundreds of attributable deaths across the Paci c Northwest, mass-
+mortalities of marine life, reduced crop and fruit yields, river ooding from
+rapid snow and glacier melt, and a substantial increase in wild res—the latter
+contributing to landslides in the months following. These impacts provide
+examples we can learn from and a vivid depiction of how climate change can
+be so devastating.
+
+--
+
+11-FUTURE EXTREME HEAT CONSIDERATIONS
+FOR EMERGENCY MANAGERS
+by
+Troy E. Christensen
+September 2024
+
+3. ABSTRACT (maximum 200 words)
+Extreme heat poses a significant and growing threat to emergency management and homeland security
+within the United States, yet many communities remain unprepared for their impacts due to inadequate
+planning. This thesis explores the potential future impact of extreme heat on America’s emergency
+management community. The study specifically focuses on future extreme heat effects in Phoenix, Chicago,
+Seattle, and Atlanta, representing a diverse cross-section of climates in the United States. The study employs
+a scenario-based approach for each city to determine the shocks of extreme heat events in future global
+temperature increases of +1.5ºC, +2.0ºC, and +2.5ºC above pre-industrial levels. Each scenario focuses on the
+expected effects on Federal Emergency Management Agency (FEMA) Community Lifelines, representing
+vital functions of a community to ensure safety, security, and well-being. The thesis underscores the
+importance of planning for extreme heat specifically and the cascading effects of extreme heat on communities
+and infrastructure. Recommendations to mitigate the growing challenge of extreme heat events on
+communities include creating plans specific to the hazard, preparing for cascading impacts, focusing on heat
+awareness and communications, and advocating funding for communities to address extreme heat threats.
+

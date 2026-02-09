@@ -1,0 +1,471 @@
+1-Critical transitions in chronic disease: transferring
+concepts from ecology to systems medicine
+Christophe Trefois1
+, Paul MA Antony1
+, Jorge Goncalves2
+,
+Alexander Skupin3,4 and Rudi Balling1
+Ecosystems and biological systems are known to be inherently
+complex and to exhibit nonlinear dynamics. Diseases such as
+microbiome dysregulation or depression can be seen as
+complex systems as well and were shown to exhibit patterns of
+nonlinearity in their response to perturbations. These
+nonlinearities can be revealed by a sudden shift in system
+states, for instance from health to disease. The identification
+and characterization of early warning signals which could
+predict upcoming critical transitions is of primordial interest as
+prevention of disease onset is a major aim in health care. In this
+review, we focus on recent evidence for critical transitions in
+diseases and discuss the potential of such studies for
+therapeutic applications. 
+
+Conclusions
+Although a large number of theoretical studies and com-
+putational simulations have been carried out to provide
+evidence for catastrophic shifts, there are still only a few
+biological and medical studies experimentally or empiri-
+cally validating the predictions and the relevance of the
+critical transition concept for medical applications.
+Furthermore, error rate estimations for false positive and
+false negative rates of the models underlying the predic-
+tions are rarely available. In order to prevent or revert
+critical system states this will become more important
+[63 ]. In some disciplines, replicate experiments are
+often not possible, for example, when analyzing the
+occurrence of ice-ages, the sudden collapse of fish-popu-
+lations or catastrophic transitions in the financial markets,
+as has been witnessed a few years ago. Biological systems
+and disease pathogenesis however might be studied in
+depth in animal models, patients with identical or closely
+related clinical symptoms or adverse responses to specific
+drug treatments. Due to this feasibility and their import-
+ance, biological and biomedical applications might play a 
+driver role in our attempts to experimentally dissect and
+understand complex nonlinear natural systems. The de-
+velopment of system specific mathematical models and
+machine learning tools, integrating a wide range of omics
+and clinical data, and prior knowledge, for example, from
+literature, public databases and modern media, will
+become a central domain in systems medicine. 
+
+---
+
+2-PERSPECTIVE
+The statistics of epidemic transitions
+John M. DrakeID1,2*
+, Tobias S. Brett1,2
+, Shiyang Chen3
+, Bogdan I. EpureanuID3,4
+, Matthew
+J. Ferrari5
+´
+, E
+ric Marty1,2
+, Paige B. MillerID1,2
+, Eamon B. O’DeaID1,2
+, Suzanne M. O’Regan6
+,
+Andrew W. ParkID1,2
+, Pejman RohaniID1,2
+1 Odum School of Ecology, University of Georgia, Athens, Georgia, United States of America, 2 Center for the
+Ecology of Infectious Diseases, University of Georgia, Athens, Georgia, United States of America,
+3 Department of Mechanical Engineering, University of Michigan, Ann Arbor, Michigan, United States of
+America, 4 Automotive Research Center, University of Michigan, Ann Arbor, Michigan, United States of
+America, 5 Center for Infectious Disease Dynamics, Pennsylvania State University, State College,
+Pennsylvania, United States of America, 6 Department of Mathematics, North Carolina A&T State University,
+Greensboro, North Carolina, United States of America
+* jdrake@uga.edu
+a1111111111
+a1111111111
+a1111111111
+a1111111111
+OPEN ACCESS
+Citation: Drake JM, Brett TS, Chen S, Epureanu BI,
+´
+Ferrari MJ, Marty E
+, et al. (2019) The statistics of
+epidemic transitions. PLoS Comput Biol 15(5):
+e1006917. https://doi.org/10.1371/journal.
+pcbi.1006917
+Editor: Roland R Regoes, ETH Zurich,
+SWITZERLAND
+Published: May 8, 2019
+Copyright: © 2019 Drake et al. This is an open
+access article distributed under the terms of the
+Creative Commons Attribution License, which
+permits unrestricted use, distribution, and
+reproduction in any medium, provided the original
+author and source are credited.
+Funding: Research reported here was supported
+by the National Institute Of General Medical
+Sciences (https://www.nigms.nih.gov) of the
+National Institutes of Health under Award Number
+U01GM110744 to JMD, PR, AWP, BIE, MJF. The
+content is solely the responsibility of the authors
+and does not necessarily reflect the official views of
+the National Institutes of Health. The funders had
+no role in study design, data collection and
+analysis, decision to publish, or preparation of the
+manuscript.
+Competing interests: The authors have declared
+that no competing interests exist.
+Abstract
+Emerging and re-emerging pathogens exhibit very complex dynamics, are hard to model
+and difficult to predict. Their dynamics might appear intractable. However, new statistical
+approaches—rooted in dynamical systems and the theory of stochastic processes—have
+yielded insight into the dynamics of emerging and re-emerging pathogens. We argue that
+these approaches may lead to new methods for predicting epidemics. This perspective
+views pathogen emergence and re-emergence as a “critical transition,” and uses the
+concept of noisy dynamic bifurcation to understand the relationship between the system
+observables and the distance to this transition. Because the system dynamics exhibit char-
+acteristic fluctuations in response to perturbations for a system in the vicinity of a critical
+point, we propose this information may be harnessed to develop early warning signals. Spe-
+cifically, the motion of perturbations slows as the system approaches the transition.
+
+---
+
+3-Article
+Criticality and Information Dynamics in
+Epidemiological Models
+E. Yagmur Erten 1,*,†, Joseph T. Lizier 1, Mahendra Piraveenan 1 and Mikhail Prokopenko 1,2
+1 Centre for Complex Systems, Faculty of Engineering and IT, University of Sydney,
+Sydney, NSW 2006, Australia; joseph.lizier@sydney.edu.au (J.T.L.);
+mahendrarajah.piraveenan@sydney.edu.au (Ma.P.); mikhail.prokopenko@sydney.edu.au (Mi.P.)
+2 Marie Bashir Institute for Infectious Diseases and Biosecurity, University of Sydney,
+Westmead, NSW 2145, Australia
+* Correspondence: yagmur.erten@ieu.uzh.ch; Tel.: +41-44-635-6118
+† Current address: Department of Evolutionary Biology and Environmental Studies, University of Zurich,
+Winterthurerstrasse 190, 8057 Zurich, Switzerland.
+Academic Editor: J. A. Tenreiro Machado
+Received: 2 March 2017; Accepted: 25 April 2017; Published: 27 April 2017
+Abstract: Understanding epidemic dynamics has always been a challenge. As witnessed from
+the ongoing Zika or the seasonal Influenza epidemics, we still need to improve our analytical
+methods to better understand and control epidemics. While the emergence of complex sciences in
+the turn of the millennium have resulted in their implementation in modelling epidemics, there
+is still a need for improving our understanding of critical dynamics in epidemics. In this study,
+using agent-based modelling, we simulate a Susceptible-Infected-Susceptible (SIS) epidemic on
+a homogeneous network. We use transfer entropy and active information storage from information
+dynamics framework to characterise the critical transition in epidemiological models. Our study
+shows that both (bias-corrected) transfer entropy and active information storage maximise after
+the critical threshold (R0 = 1). This is the first step toward an information dynamics approach to
+epidemics. Understanding the dynamics around the criticality in epidemiological models can provide
+us insights about emergent diseases and disease control.
+Keywords: epidemiology; criticality; information dynamics; phase transitions; agent-based simulation
+
+4-Early warning signals of infectious disease
+transitions: a review
+royalsocietypublishing.org/journal/rsif
+Emma Southall1,2, Tobias S. Brett3,4, Michael J. Tildesley1 and Louise Dyson1
+Review
+1The Zeeman Institute for Systems Biology and Infectious Disease Epidemiology Research, School of Life Sciences
+and Mathematics Institute, and 2Mathematics for Real World Systems Centre for Doctoral Training, Mathematics
+Institute, University of Warwick, Coventry CV4 7AL, UK
+3Odum School of Ecology, and 4Center for the Ecology of Infectious Diseases, University of Georgia, Athens,
+GA, USA
+ES, 0000-0002-7319-3080; TSB, 0000-0002-0906-441X; MJT, 0000-0002-6875-7232;
+LD, 0000-0001-9788-4858
+Cite this article: Southall E, Brett TS,
+Tildesley MJ, Dyson L. 2021 Early warning
+signals of infectious disease transitions: a
+review. J. R. Soc. Interface 18: 20210555.
+https://doi.org/10.1098/rsif.2021.0555
+Received: 2 July 2021
+Accepted: 6 September 2021
+Subject Category:
+Reviews
+Early warning signals (EWSs) are a group of statistical time-series signals
+which could be used to anticipate a critical transition before it is reached.
+EWSs are model-independent methods that have grown in popularity to sup-
+port evidence of disease emergence and disease elimination. Theoretical work
+has demonstrated their capability of detecting disease transitions in simple epi-
+demic models, where elimination is reached through vaccination, to more
+complex vector transmission, age-structured and metapopulation models.
+However, the exact time evolution of EWSs depends on the transition; here
+we review the literature to provide guidance on what trends to expect and
+when. Recent advances include methods which detect when an EWS becomes
+significant; the earlier an upcoming disease transition is detected, the more
+valuable an EWS will be in practice. We suggest that future work should firstly
+validate detection methods with synthetic and historical datasets, before
+addressing their performance with real-time data which is accruing. A major
+challenge to overcome for the use of EWSs with disease transitions is to main-
+tain the accuracy of EWSs in data-poor settings. We demonstrate how EWSs
+behave on reported cases for pertussis in the USA, to highlight some limitations
+when detecting disease transitions with real-world data.
+
+--
+
+5-Critical dynamics in population vaccinating behavior
+A. Demetri Pananosa, Thomas M. Burya, Clara Wangb, Justin Schonfelda, Sharada P. Mohantyc, Brendan Nyhanb
+,
+Marcel Salathéc, and Chris T. Baucha,1
+aDepartment of Applied Mathematics, University of Waterloo, Waterloo, ON, Canada N2L 3G1; bDepartment of Government, Dartmouth College, Hanover,
+NH 03755; and cDigital Epidemiology Laboratory, École Polytechnique Fédérale de Lausanne, 1202 Geneva, Switzerland
+Edited by Stephen R. Carpenter, University of Wisconsin–Madison, Madison, WI, and approved November 7, 2017 (received for review March 10, 2017)
+Vaccine refusal can lead to renewed outbreaks of previously
+eliminated diseases and even delay global eradication. Vaccinating
+decisions exemplify a complex, coupled system where vaccinating
+behavior and disease dynamics influence one another. Such
+systems often exhibit critical phenomena—special dynamics close
+to a tipping point leading to a new dynamical regime. For instance,
+critical slowing down (declining rate of recovery from small per-
+turbations) may emerge as a tipping point is approached. Here, we
+collected and geocoded tweets about measles–mumps–rubella
+vaccine and classified their sentiment using machine-learning al-
+gorithms. We also extracted data on measles-related Google
+searches. We find critical slowing down in the data at the level
+of California and the United States in the years before and after
+the 2014–2015 Disneyland, California measles outbreak. Critical
+slowing down starts growing appreciably several years before
+the Disneyland outbreak as vaccine uptake declines and the pop-
+ulation approaches the tipping point. However, due to the adap-
+tive nature of coupled behavior–disease systems, the population
+responds to the outbreak by moving away from the tipping point,
+causing“critical speeding up” whereby resilience to perturbations
+increases. A mathematical model of measles transmission and vac-
+cine sentiment predicts the same qualitative patterns in the neigh-
+borhood of a tipping point to greatly reduced vaccine uptake and
+large epidemics. These results support the hypothesis that popu-
+lation vaccinating behavior near the disease elimination threshold
+is a critical phenomenon. Developing new analytical tools to de-
+tect these patterns in digital social data might help us identify
+populations at heightened risk of widespread vaccine refusal.
+
+---
+
+6-‘The placement was probably the tipping point’
+discontinued students
+e The narratives of recently
+Claire Hamshire 1 , Thomas G Willgoss*, Christopher Wibberley 2
+Faculty of Health, Psychology and Social Care, Manchester Metropolitan University, Hathersage Road, Manchester M13 0JA, United Kingdom
+a r t i c l e i n f o
+a b s t r a c t
+Article history:
+Accepted 7 November 2011
+Keywords:
+Attrition
+Narratives
+Students
+Clinical placements
+Much has been written on student attrition from healthcare programmes and we know that it is often
+multifactorial. However in order to reduce attrition we need to gain a greater understanding of how
+multiple factors impact upon and compound one another to prompt a student to decide to leave. The
+purpose of this study was to explore healthcare students’ experiences of university and the circum-
+stances that initiated their decision to leave their programme. Sixteen students that had recently left
+healthcare programmes within the North West of England were interviewed by telephone, using
+a narrative prompt to facilitate them to tell their stories. All the students gave detailed narrative accounts
+that described their learning experiences, growing dissatisfaction and subsequent attrition. In the
+majority dissatisfaction and dif culties around clinical placements acted as a tipping point that
+precipitated departure.
+
+---
+
+Deep learning for early warning signals of
+tipping points
+Thomas M. Burya,b and Chris T. Baucha,1
+, R. I. Sujithc , Induja Pavithrand , Marten Scheffere, Timothy M. Lentonf , Madhur Anandb
+,
+aDepartment of Applied Mathematics, University of Waterloo, Waterloo, ON N2L 3G1, Canada; bSchool of Environmental Sciences, University of Guelph,
+Guelph, ON N1G 2W1, Canada;cDepartment of Aerospace Engineering, Indian Institute of Technology Madras, Chennai 600036, India; dDepartment of
+Physics, Indian Institute of Technology Madras, Chennai 600036, India;eDepartment of Environmental Sciences, Wageningen University, 6708 PB
+Wageningen, The Netherlands; and fGlobal Systems Institute, University of Exeter, Exeter EX4 4PY, United Kingdom
+Edited by Alan Hastings, University of California, Davis, CA, and approved August 4, 2021 (received for review March 30, 2021)
+Many natural systems exhibit tipping points where slowly chang-
+ing environmental conditions spark a sudden shift to a new
+and sometimes very different state. As the tipping point is
+approached, the dynamics of complex and varied systems sim-
+plify down to a limited number of possible “normal forms” that
+determine qualitative aspects of the new state that lies beyond
+the tipping point, such as whether it will oscillate or be sta-
+ble. In several of those forms, indicators like increasing lag-1
+autocorrelation and variance provide generic early warning sig-
+nals (EWS) of the tipping point by detecting how dynamics slow
+down near the transition. But they do not predict the nature
+of the new state. Here we develop a deep learning algorithm
+that provides EWS in systems it was not explicitly trained on, by
+exploiting information about normal forms and scaling behav-
+ior of dynamics near tipping points that are common to many
+dynamical systems. The algorithm provides EWS in 268 empirical
+and model time series from ecology, thermoacoustics, climatology,
+and epidemiology with much greater sensitivity and specificity
+than generic EWS. It can also predict the normal form that char-
+acterizes the oncoming tipping point, thus providing qualitative
+information on certain aspects of the new state. Such approaches
+can help humans better prepare for, or avoid, undesirable state
+transitions. The algorithm also illustrates how a universe of
+possible models can be mined to recognize naturally occurring
+tipping points.
+
+---
+
+PAPER
+8-Dynamics of social contagions with heterogeneous adoption
+thresholds: crossover phenomena in phase transition
+Wei Wang1,2, Ming Tang1,2, Panpan Shu1,2 and Zhen Wang3
+1 Web Sciences Center, University of Electronic Science and Technology of China, Chengdu 610054, People’s Republic of China
+2 Big data research center, University of Electronic Science and Technology of China, Chengdu 610054, People’s Republic of China
+3 Interdisciplinary Graduate School of Engineering Sciences, Kyushu University, Kasuga-koen, Kasugashi, Fukuoka 816-8580, Japan
+E-mail: tangminghan007@gmail.com and zhenwang0@gmail.com
+Keywords: complex networks, social contagions, phase transition, heterogeneous adoption thresholds
+Abstract
+Heterogeneous adoption thresholds exist widely in social contagions, such as behavior spreading, but
+were always neglected in previous studies. To this end, we introduce heterogeneous adoption
+threshold distribution into a non-Markovian spreading threshold model, in which an individual
+adopts a behavior only when the received cumulative pieces of behavioral information from neighbors
+exceeds his adoption threshold. In order to understand the effects of heterogeneous adoption
+thresholds quantitatively, an edge-based compartmental theory is developed. A two-state spreading
+threshold model is taken as an example, in which some individuals have a low adoption threshold (i.e.,
+activists) while the remaining ones hold a relatively higher adoption threshold (i.e., bigots). We nd a
+hierarchical characteristic in adopting behavior, i.e., activists rst adopt the behavior and then
+stimulate bigots to adopt the behavior. Interestingly, two types of crossover phenomena in phase
+transition occur: for a relatively low adoption threshold of bigots, a change from rst-order to second-
+order phase transition can be triggered by increasing the fraction of activists; for a relatively higher
+adoption threshold of bigots, a change from hybrid to second-order phase transition can be induced
+by varying the fraction of activists, decreasing mean degree or enhancing network heterogeneity. The
+theoretical predictions based on the suggested theory agree very well with the simulation results.
+
+---
+
+9-The 'Big Data' Revolution in healthcare
+
+Based on the document titled "The ‘big data’ revolution in healthcare: Accelerating value and innovation" (January 2013) by McKinsey & Company, here is a detailed overview containing raw evidence, data points, and quotes.
+
+Document Overview
+
+Authors: Peter Groves, Basel Kayyali, David Knott, Steve Van Kuiken
+Focus: The report asserts that the US healthcare system has reached a "tipping point" regarding data liquidity, creating an opportunity to use "big data" to address quality variability and escalating costs.
+
+The "Tipping Point" Factors
+
+The document identifies a convergence of forces driving this revolution (Exhibit 1):
+
+Demand: Driven by "escalating costs" ($600 billion above expected benchmark by 2009) and a shift from fee-for-service to reimbursement based on "patient outcomes or total cost control."
+
+Supply: EMR adoption rose from 30% in 2005 to "more than 50 percent for physicians and nearly 75 percent for hospitals" by 2011.
+
+Technology: Advances allow systems to "examine information across all data pools," such as combining claims data with clinical data.
+
+Government: Initiatives like the "Health Data Initiative (HDI)" and the "HITECH Act," which authorized "$40 billion in incentive payments for providers to use EMRs."
+
+Primary Data Pools (Exhibit 2)
+
+The report defines four key data pools fueling the revolution:
+
+Activity (claims) and cost data: "Utilization of care, cost estimates."
+
+Clinical data: "Electronic medical records, medical images."
+
+Pharmaceutical R&D data: "Clinical trials, high-throughput-screening libraries."
+
+Patient behavior and sentiment data: "Retail purchase history, exercise data captured in running shoes."
+
+New Value Pathways
+
+The authors define five "value pathways" to capture economic gains (Exhibit 3):
+
+Right Living: "Informed lifestyle choices that promote well-being."
+
+Evidence: Providence Everett Medical Center's wellness program reduced health costs by 14% and the sick-leave rate by 20%.
+
+Right Care: "Evidence-based care that is proven to deliver needed outcomes."
+
+Evidence: Kaiser Permanente’s HealthConnect system "reduced total office visits by 26.2 percent."
+
+Right Provider: "Match of provider skill set to the complexity of the assignment."
+
+Right Value: "Sustainable approaches that continuously enhance healthcare value."
+
+Evidence: Sanofi used real-world data to prove the efficacy of Lantus insulin to German payor G-BA, securing contracts covering "about 90 percent of the German population."
+
+Right Innovation: "Advance the frontiers of medicine and boost R&D productivity."
+
+Evidence: AstraZeneca partnered with WellPoint’s HealthCore to "guide decisions on where to invest its research and development dollars."
+
+Projected Economic Impact
+
+Total Savings: "We estimated that the pathways could account for $300 billion to $450 billion in reduced healthcare spend, or 12 to 17 percent of the $2.6 trillion baseline in US healthcare costs" (Exhibit 4).
+
+Preventative Actions: Measures like aspirin use or cholesterol screening could "reduce the total cost of their care by over $38 billion."
+
+Innovation Landscape
+
+An analysis of over 200 businesses created since 2010 reveals:
+
+Startups:
+
+Asthmapolis: Uses GPS-enabled inhalers to identify asthma catalysts like pollen or volcanic fog.
+
+Ginger.io: Uses mobile sensors to record movement and calling patterns to detect if a patient "feels physically unwell" or if an "anxiety attack is imminent."
+
+Rise Health: Designed an ACO dashboard for provider data exchange.
+
+Trends: "Innovators are primarily developing applications for consumers and providers" rather than business-to-business sales (Exhibit 5).
+
+Data Sources: "About 50 to 70 percent of all innovations depend at least in part on the capture or integration of customers’ own data."
+
+Imperatives and Challenges
+
+Talent Shortage: "By 2018, we expect that the nation will be short two million workers with the required knowledge and expertise" in data analysis, management, and systems.
+
+Privacy: The mindset must shift from "protect" to "share, with protections."
+
+Risks: "Owners of MRI machines... could end up pursuing and receiving unnecessary MRIs" to amortize fixed costs, potentially destroying value.
+
+Stakeholder Priorities
+
+Payors: Must build "new basic data-analytics engines" and isolate "outliers within the provider network."
+
+Providers: Must ensure "consistent and comprehensive data capture" and participate in "Health Information Exchanges (HIEs)."
+
+Manufacturers: Must refocus on "payors and customer value" and monitor "competitor products for safety, efficacy, and value indicators."
+
+Leadership Principles
+
+For senior leaders getting started:
+
+Improve the core business first: Use data to fix weaknesses before pursuing new growth.
+
+Play to win: Make big data a "personal priority."
+
+Promote transparency: Do so before regulators "do so on their behalf."
+
+Set diverse goals: Implement short, medium, and long-term goals (Exhibit 9). 
+
+--
+
+10-A Tipping Point for Measurement-Based Care
+John C. Fortney, Ph.D., Jürgen Unützer, M.D., M.P.H., Glenda Wrenn, M.D., M.S.H.P., Jeffrey M. Pyne, M.D.,
+G. Richard Smith, M.D., Michael Schoenbaum, Ph.D., Henry T. Harbin, M.D.
+Objective: Measurement-based care involves the system-
+atic administration of symptom rating scales and use of the
+results to drive clinical decision making at the level of the
+individual patient. This literature review examined the the-
+oretical and empirical support for measurement-based care.
+Methods: Articles were identi ed through search strategies
+in PubMed and Google Scholar. Additional citations in the
+references of retrieved articles were identi ed, and experts
+assembled for a focus group conducted by the Kennedy
+Forum were consulted.
+Results: Fifty-one relevant articles were reviewed. There are
+numerous brief structured symptom rating scales that have
+strong psychometric properties. Virtually all randomized con-
+trolled trials with frequent and timely feedback of patient-
+reported symptoms to the provider during the medication
+management and psychotherapy encounters signi cantly im-
+proved outcomes. Ineffective approaches included one-time
+screening, assessing symptoms infrequently, and feeding back
+outcomes to providers outside the context of the clinical en-
+counter. In addition to the empirical evidence about ef cacy,
+there is mounting evidence from large-scale pragmatic trials
+and clinical demonstration projects that measurement-based
+care is feasible to implement on a large scale and is highly
+acceptable to patients and providers.
+Conclusions: In addition to the primary gains of measurement-
+based care for individual patients, there are also potential
+secondary and tertiary gains to be made when individual
+patient data are aggregated. Speci cally, aggregated symp-
+tom rating scale data can be used for professional devel-
+opment at the provider level and for quality improvement at
+the clinic level and to inform payers about the value of
+mental health services delivered at the health care system
+level.
+Psychiatric Services 2017; 68:179–188; doi: 10.1176/appi.ps.201500439
