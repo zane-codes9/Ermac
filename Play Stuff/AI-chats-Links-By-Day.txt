@@ -16,3 +16,11 @@ https://aistudio.google.com/prompts/1cNEPYLvGjWqwA8apM2NaRNlEzwOPDa-2 --> zherko
 
 
 https://aistudio.google.com/prompts/1mSI4YfrJdXlHOm3ezsXBBTpx8ZK6rMfX --> BC heat dome data extraction
+
+---
+
+2025-02-09
+
+https://aistudio.google.com/u/0/prompts/1Kjl82WDdmvIy11S5_VVh2btm2yrrzzKi 
+
+- Talked about the importance of first principles arming + reconnaissance. Derived geometry of non-euclidean space
